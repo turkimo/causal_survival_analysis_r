@@ -1,0 +1,501 @@
+,id,Treatment,Age,Sex,ChildPugh,gregion,miexhep,alpha_feto,ecog_perf,hc_cause,TreatmentTreatment,SexFemale,eventtime,status
+1,1,Control,61.22518131,Male,0,rest of the world,presence,<400,0,Hepatitis B,0,0,2.036786846,1
+2,2,Treatment,50.75243509,Male,0,rest of the world,presence,=> 400,1,Hepatitis B,1,0,1.860443496,1
+3,3,Control,58.68839325,Male,0,Asia excluding Japan,presence,<400,0,Nonviral,0,0,3.564363907,1
+4,4,Control,74.34732199,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis C,0,0,1.004015962,1
+5,5,Control,74.03673381,Male,1,rest of the world,presence,=> 400,1,Hepatitis C,0,0,0.371152373,1
+6,6,Treatment,62.52607364,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis C,1,0,0.918571654,1
+7,7,Treatment,65.74648729,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,1,0,1.517966911,1
+8,8,Control,76.57549021,Female,0,Asia excluding Japan,absence,=> 400,1,Hepatitis C,0,1,0.415626227,1
+9,9,Treatment,79.61648592,Male,1,Asia excluding Japan,absence,=> 400,0,Nonviral,1,0,5,0
+10,10,Control,82.55631072,Male,0,rest of the world,presence,<400,1,Hepatitis B,0,0,1.086289481,1
+11,11,Treatment,36.37314394,Male,0,Asia excluding Japan,absence,=> 400,1,Hepatitis B,1,0,0.101284005,1
+12,12,Control,56.34701292,Female,1,rest of the world,presence,=> 400,0,Hepatitis B,0,1,0.443825801,1
+13,13,Treatment,70.37889455,Male,0,rest of the world,presence,=> 400,0,Hepatitis B,1,0,1.782525735,0
+14,14,Treatment,60.84802672,Female,0,Asia excluding Japan,presence,<400,1,Hepatitis B,1,1,5,0
+15,15,Control,60.75933723,Female,1,Asia excluding Japan,presence,<400,1,Nonviral,0,1,0.693410555,1
+16,16,Treatment,50.55645849,Male,1,rest of the world,presence,=> 400,0,Hepatitis C,1,0,5,0
+17,17,Control,68.26168696,Female,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,0,1,0.090678134,1
+18,18,Treatment,67.98102213,Male,1,rest of the world,absence,=> 400,0,Hepatitis B,1,0,0.990562178,1
+19,19,Treatment,73.61893944,Male,1,rest of the world,absence,<400,0,Hepatitis B,1,0,5,0
+20,20,Control,68.93951127,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,0,0,3.917752371,1
+21,21,Treatment,78.90011717,Male,0,rest of the world,presence,=> 400,1,Nonviral,1,0,1.102800413,1
+22,22,Control,86.57180848,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,0,0,0.240398813,1
+23,23,Treatment,59.29108442,Male,0,rest of the world,presence,<400,1,Nonviral,1,0,2.314229743,1
+24,24,Control,64.30433931,Female,1,rest of the world,absence,<400,0,Nonviral,0,1,0.500632645,1
+25,25,Treatment,71.70774018,Male,1,rest of the world,presence,=> 400,1,Nonviral,1,0,2.569151686,1
+26,26,Control,61.25213291,Male,1,rest of the world,presence,<400,1,Hepatitis C,0,0,2.82369813,1
+27,27,Control,80.61554374,Male,0,Asia excluding Japan,presence,=> 400,0,Hepatitis C,0,0,1.228784804,1
+28,28,Control,58.33683495,Male,1,Asia excluding Japan,presence,<400,1,Nonviral,0,0,0.581485871,1
+29,29,Control,69.58713522,Female,1,Asia excluding Japan,absence,<400,0,Hepatitis B,0,1,2.008993014,1
+30,30,Control,56.65498687,Male,1,Asia excluding Japan,presence,=> 400,1,Hepatitis C,0,0,2.354768751,1
+31,31,Treatment,57.45875026,Male,0,rest of the world,presence,=> 400,0,Hepatitis C,1,0,1.317956564,1
+32,32,Control,65.57660052,Female,0,Asia excluding Japan,presence,=> 400,0,Hepatitis C,0,1,2.171333285,1
+33,33,Control,69.564834,Male,1,rest of the world,presence,<400,1,Hepatitis C,0,0,1.445155244,0
+34,34,Treatment,75.4788635,Male,1,rest of the world,absence,=> 400,0,Hepatitis B,1,0,4.608687544,1
+35,35,Treatment,68.52290719,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,1,0,1.973465837,1
+36,36,Control,55.36231919,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis C,0,0,5,0
+37,37,Control,93.36271552,Male,0,Asia excluding Japan,presence,=> 400,0,Hepatitis B,0,0,1.261938512,1
+38,38,Control,60.92766858,Male,1,Asia excluding Japan,presence,=> 400,1,Hepatitis C,0,0,1.257099051,1
+39,39,Treatment,75.3425116,Male,0,rest of the world,absence,=> 400,1,Nonviral,1,0,2.359144964,1
+40,40,Treatment,77.18290214,Male,1,rest of the world,absence,=> 400,1,Hepatitis B,1,0,5,0
+41,41,Treatment,41.36552165,Male,1,rest of the world,presence,=> 400,0,Nonviral,1,0,0.755274982,1
+42,42,Control,77.67108507,Female,1,Asia excluding Japan,presence,<400,1,Hepatitis C,0,1,0.241145856,1
+43,43,Control,47.53146198,Male,0,Asia excluding Japan,presence,<400,1,Hepatitis B,0,0,0.210808358,0
+44,44,Treatment,62.42418054,Male,0,Asia excluding Japan,presence,=> 400,1,Hepatitis C,1,0,2.143305563,1
+45,45,Treatment,54.48875741,Male,0,rest of the world,presence,=> 400,1,Hepatitis B,1,0,4.688478052,1
+46,46,Treatment,59.46062356,Male,0,rest of the world,presence,=> 400,0,Hepatitis C,1,0,2.419003701,1
+47,47,Treatment,56.76388295,Male,1,Asia excluding Japan,presence,<400,0,Hepatitis B,1,0,0.629529611,1
+48,48,Control,71.54729754,Male,0,Asia excluding Japan,presence,=> 400,0,Hepatitis B,0,0,0.416713279,1
+49,49,Control,61.8083671,Male,1,rest of the world,presence,=> 400,1,Hepatitis C,0,0,1.478942549,1
+50,50,Treatment,66.03177545,Female,1,rest of the world,presence,=> 400,1,Hepatitis B,1,1,1.583843403,1
+51,51,Control,68.0375076,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,0,0,0.295566553,1
+52,52,Treatment,72.52585747,Male,0,rest of the world,presence,<400,0,Hepatitis C,1,0,5,0
+53,53,Control,74.93509886,Male,1,Asia excluding Japan,absence,<400,1,Hepatitis B,0,0,0.358034586,1
+54,54,Treatment,55.89942488,Male,1,rest of the world,presence,<400,1,Hepatitis B,1,0,4.342506642,1
+55,55,Treatment,75.73002805,Male,1,Asia excluding Japan,absence,=> 400,1,Nonviral,1,0,5,0
+56,56,Treatment,51.52024749,Male,1,Asia excluding Japan,presence,=> 400,1,Hepatitis C,1,0,5,0
+57,57,Control,59.29092077,Female,0,rest of the world,presence,<400,0,Hepatitis C,0,1,3.779288458,1
+58,58,Control,57.71159764,Male,1,Asia excluding Japan,presence,=> 400,0,Nonviral,0,0,0.818049321,1
+59,59,Treatment,73.93959139,Male,1,rest of the world,presence,<400,1,Nonviral,1,0,5,0
+60,60,Treatment,61.50542268,Male,0,rest of the world,presence,<400,0,Nonviral,1,0,5,0
+61,61,Treatment,54.96171984,Female,1,rest of the world,presence,=> 400,0,Nonviral,1,1,3.490567238,1
+62,62,Control,77.87536807,Male,1,rest of the world,absence,=> 400,0,Hepatitis C,0,0,4.504857492,1
+63,63,Control,58.05309091,Male,1,rest of the world,presence,=> 400,0,Hepatitis C,0,0,1.457960435,1
+64,64,Control,74.49361594,Male,0,rest of the world,presence,=> 400,1,Nonviral,0,0,0.268096695,1
+65,65,Control,68.26444547,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,0,0,0.999225291,1
+66,66,Control,79.44056572,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,0,0,0.359070171,1
+67,67,Control,66.22500522,Male,1,Asia excluding Japan,absence,=> 400,0,Hepatitis B,0,0,1.410175096,1
+68,68,Treatment,77.57408828,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,1,0,0.575517613,1
+69,69,Treatment,61.5212197,Male,1,rest of the world,absence,<400,1,Hepatitis B,1,0,5,0
+70,70,Control,71.47231417,Male,1,Asia excluding Japan,absence,<400,0,Hepatitis B,0,0,0.215189386,1
+71,71,Control,69.92889854,Male,0,Asia excluding Japan,absence,=> 400,1,Hepatitis B,0,0,1.097609035,1
+72,72,Treatment,74.75776242,Male,1,Asia excluding Japan,presence,<400,1,Nonviral,1,0,1.318383638,1
+73,73,Treatment,47.56614608,Male,0,rest of the world,presence,<400,0,Hepatitis B,1,0,0.459924817,1
+74,74,Control,56.9767266,Male,1,rest of the world,presence,=> 400,1,Nonviral,0,0,3.653654661,1
+75,75,Treatment,59.97891917,Male,0,rest of the world,presence,=> 400,0,Hepatitis C,1,0,2.507016896,1
+76,76,Control,75.43004326,Male,0,rest of the world,presence,<400,1,Hepatitis B,0,0,3.366776608,1
+77,77,Treatment,59.39232868,Male,1,rest of the world,presence,<400,1,Nonviral,1,0,0.287064003,1
+78,78,Treatment,56.00917794,Female,1,Asia excluding Japan,presence,=> 400,1,Nonviral,1,1,0.884520161,1
+79,79,Control,62.90607648,Male,1,Asia excluding Japan,absence,<400,0,Nonviral,0,0,0.719639025,1
+80,80,Control,65.85773558,Male,1,rest of the world,presence,=> 400,1,Nonviral,0,0,0.597104789,1
+81,81,Treatment,96.13048006,Male,0,rest of the world,presence,=> 400,1,Hepatitis B,1,0,3.416860712,1
+82,82,Treatment,65.12209661,Female,1,rest of the world,presence,=> 400,1,Nonviral,1,1,1.743625836,1
+83,83,Control,57.90406353,Male,0,rest of the world,presence,=> 400,0,Nonviral,0,0,1.197388105,0
+84,84,Control,49.73386789,Male,1,rest of the world,absence,=> 400,0,Hepatitis B,0,0,2.341899181,1
+85,85,Treatment,61.30018315,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,1,0,1.568090351,1
+86,86,Treatment,60.72760904,Male,1,rest of the world,absence,=> 400,0,Hepatitis C,1,0,0.600452237,1
+87,87,Treatment,53.0184629,Male,1,rest of the world,absence,<400,0,Nonviral,1,0,5,0
+88,88,Treatment,85.75459082,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,1,0,2.126827741,1
+89,89,Treatment,67.04900569,Male,1,rest of the world,presence,<400,0,Hepatitis B,1,0,0.900345077,1
+90,90,Control,73.08617796,Male,0,rest of the world,presence,=> 400,0,Hepatitis B,0,0,0.993218113,1
+91,91,Treatment,63.51921641,Male,1,rest of the world,presence,=> 400,1,Hepatitis C,1,0,0.567180115,1
+92,92,Control,53.51135928,Male,0,Asia excluding Japan,absence,=> 400,1,Hepatitis B,0,0,0.540719492,1
+93,93,Treatment,88.38039898,Male,1,Asia excluding Japan,absence,<400,0,Hepatitis B,1,0,0.142556259,1
+94,94,Treatment,67.23845954,Male,0,rest of the world,absence,=> 400,0,Hepatitis C,1,0,0.163600244,1
+95,95,Treatment,57.14564468,Male,0,rest of the world,presence,=> 400,0,Hepatitis C,1,0,5,0
+96,96,Treatment,68.20216623,Male,0,rest of the world,presence,<400,1,Nonviral,1,0,5,0
+97,97,Control,72.68891224,Female,1,rest of the world,presence,<400,0,Hepatitis C,0,1,0.12618304,1
+98,98,Control,61.72499113,Male,1,rest of the world,absence,=> 400,1,Nonviral,0,0,5,0
+99,99,Treatment,51.04829586,Male,1,rest of the world,presence,=> 400,0,Hepatitis C,1,0,5,0
+100,100,Control,73.6847964,Male,0,Asia excluding Japan,presence,<400,0,Hepatitis B,0,0,1.204778299,1
+101,101,Control,82.85069292,Male,1,rest of the world,absence,<400,1,Hepatitis B,0,0,4.837418285,1
+102,102,Control,68.04329303,Male,0,Asia excluding Japan,absence,=> 400,1,Hepatitis B,0,0,1.703788911,1
+103,103,Treatment,74.93965741,Male,0,Asia excluding Japan,presence,<400,0,Hepatitis B,1,0,2.443918426,1
+104,104,Control,63.05505547,Male,0,Asia excluding Japan,presence,=> 400,1,Hepatitis B,0,0,1.48457777,1
+105,105,Control,50.26164694,Female,1,rest of the world,presence,<400,1,Nonviral,0,1,1.101753695,1
+106,106,Control,90.42032862,Male,0,rest of the world,presence,<400,0,Nonviral,0,0,0.424481425,0
+107,107,Treatment,86.93670614,Female,1,rest of the world,absence,<400,1,Hepatitis B,1,1,5,0
+108,108,Control,48.20244185,Male,1,rest of the world,presence,=> 400,1,Hepatitis B,0,0,0.628045331,1
+109,109,Treatment,70.48445074,Male,1,Asia excluding Japan,presence,=> 400,1,Hepatitis B,1,0,5,0
+110,110,Control,55.67120602,Male,0,rest of the world,absence,=> 400,0,Hepatitis B,0,0,1.432747408,1
+111,111,Control,72.18175285,Female,0,rest of the world,absence,<400,1,Nonviral,0,1,1.111469651,1
+112,112,Control,65.56558815,Male,1,rest of the world,presence,=> 400,1,Hepatitis B,0,0,0.183855779,1
+113,113,Treatment,59.90527855,Male,0,Asia excluding Japan,presence,=> 400,0,Hepatitis C,1,0,4.143108075,1
+114,114,Treatment,56.7914366,Male,1,rest of the world,presence,<400,1,Hepatitis C,1,0,5,0
+115,115,Treatment,68.47745567,Male,0,rest of the world,presence,=> 400,1,Hepatitis B,1,0,5,0
+116,116,Control,74.83072675,Female,1,rest of the world,presence,=> 400,0,Hepatitis B,0,1,0.147082735,1
+117,117,Treatment,83.92327761,Male,0,rest of the world,presence,=> 400,0,Hepatitis B,1,0,0.071496486,1
+118,118,Treatment,63.09120769,Male,1,rest of the world,absence,<400,0,Hepatitis B,1,0,2.710040229,1
+119,119,Treatment,64.90614743,Male,1,Asia excluding Japan,absence,<400,0,Nonviral,1,0,0.071633643,1
+120,120,Treatment,56.11629065,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,1,0,0.530479366,1
+121,121,Control,50.8259027,Male,1,rest of the world,absence,<400,1,Nonviral,0,0,4.61073886,1
+122,122,Control,93.16565205,Female,0,Asia excluding Japan,absence,=> 400,0,Hepatitis B,0,1,0.354274354,1
+123,123,Control,80.99608342,Male,1,rest of the world,absence,=> 400,0,Hepatitis B,0,0,2.454923217,1
+124,124,Treatment,66.07141363,Male,1,rest of the world,absence,=> 400,1,Hepatitis B,1,0,0.712625269,1
+125,125,Treatment,39.58875574,Male,1,Asia excluding Japan,presence,<400,0,Nonviral,1,0,0.854800666,1
+126,126,Control,56.23756145,Male,1,rest of the world,presence,<400,0,Hepatitis B,0,0,5,0
+127,127,Control,72.67943215,Male,0,rest of the world,absence,=> 400,0,Hepatitis B,0,0,4.988920808,1
+128,128,Control,69.99247837,Male,1,Asia excluding Japan,presence,<400,0,Nonviral,0,0,3.38622632,1
+129,129,Treatment,68.86972322,Male,0,rest of the world,presence,<400,0,Nonviral,1,0,0.423595476,1
+130,130,Treatment,61.38209814,Female,1,rest of the world,presence,=> 400,0,Hepatitis B,1,1,0.117335172,1
+131,131,Control,61.54527979,Male,1,Asia excluding Japan,absence,=> 400,0,Nonviral,0,0,1.39526655,1
+132,132,Treatment,66.26339197,Female,0,Asia excluding Japan,presence,<400,0,Nonviral,1,1,4.692635373,1
+133,133,Treatment,61.27404238,Male,0,Asia excluding Japan,presence,=> 400,0,Nonviral,1,0,1.63783778,0
+134,134,Treatment,61.26159907,Female,1,rest of the world,absence,<400,1,Hepatitis B,1,1,1.84039321,1
+135,135,Treatment,77.51986393,Male,0,Asia excluding Japan,presence,=> 400,1,Hepatitis B,1,0,0.124910553,1
+136,136,Treatment,60.40749937,Female,1,Asia excluding Japan,presence,<400,0,Hepatitis B,1,1,5,0
+137,137,Control,77.5639802,Female,1,Asia excluding Japan,presence,<400,0,Hepatitis C,0,1,5,0
+138,138,Treatment,62.0684474,Male,1,rest of the world,presence,=> 400,0,Nonviral,1,0,2.60971944,1
+139,139,Treatment,64.68609545,Male,1,rest of the world,presence,=> 400,0,Nonviral,1,0,4.290314414,1
+140,140,Treatment,67.02214724,Male,1,rest of the world,presence,<400,0,Nonviral,1,0,1.517136061,1
+141,141,Control,52.9335359,Male,1,Asia excluding Japan,presence,<400,1,Hepatitis B,0,0,1.775441493,0
+142,142,Treatment,68.67143905,Female,1,rest of the world,presence,=> 400,0,Nonviral,1,1,5,0
+143,143,Treatment,57.4453025,Male,0,rest of the world,presence,=> 400,1,Hepatitis B,1,0,3.963014933,1
+144,144,Control,54.99260852,Male,1,rest of the world,absence,<400,0,Nonviral,0,0,1.817709619,1
+145,145,Control,73.52945529,Male,0,rest of the world,presence,<400,0,Hepatitis B,0,0,1.084822963,1
+146,146,Treatment,66.37527093,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,1,0,0.245410741,1
+147,147,Treatment,64.50503038,Male,1,rest of the world,presence,<400,0,Hepatitis C,1,0,2.144217271,1
+148,148,Control,55.89456553,Female,0,rest of the world,presence,<400,0,Hepatitis B,0,1,2.366933959,1
+149,149,Treatment,58.47634548,Female,0,Asia excluding Japan,absence,=> 400,0,Hepatitis C,1,1,2.331231844,1
+150,150,Control,71.10968084,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,0,0,2.026640616,1
+151,151,Treatment,71.21552521,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,1,0,4.84054559,1
+152,152,Treatment,54.84073616,Female,0,Asia excluding Japan,presence,=> 400,1,Nonviral,1,1,5,0
+153,153,Control,79.05623924,Male,1,Asia excluding Japan,presence,<400,1,Hepatitis C,0,0,3.943170477,1
+154,154,Control,81.49438889,Male,1,Asia excluding Japan,presence,<400,0,Hepatitis B,0,0,3.164577673,1
+155,155,Control,67.61603324,Male,0,Asia excluding Japan,absence,<400,0,Hepatitis B,0,0,4.092249716,1
+156,156,Control,67.63435739,Male,1,rest of the world,absence,=> 400,0,Hepatitis B,0,0,0.426474426,1
+157,157,Treatment,66.80268167,Male,1,rest of the world,absence,=> 400,1,Nonviral,1,0,2.117763188,1
+158,158,Treatment,82.81429043,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,1,0,1.151348998,1
+159,159,Control,69.90660682,Male,0,rest of the world,presence,=> 400,1,Hepatitis B,0,0,0.802191354,1
+160,160,Treatment,52.09482396,Male,1,Asia excluding Japan,presence,<400,1,Hepatitis B,1,0,5,0
+161,161,Control,72.78552071,Male,0,rest of the world,absence,=> 400,0,Hepatitis B,0,0,0.09347744,1
+162,162,Treatment,76.87249909,Male,1,rest of the world,presence,<400,0,Hepatitis B,1,0,0.224509911,1
+163,163,Treatment,70.64931572,Male,1,Asia excluding Japan,absence,=> 400,1,Hepatitis C,1,0,5,0
+164,164,Treatment,57.93934651,Female,1,rest of the world,absence,=> 400,1,Hepatitis B,1,1,5,0
+165,165,Treatment,68.7022454,Male,1,rest of the world,presence,=> 400,0,Nonviral,1,0,2.226763588,1
+166,166,Control,40.00282006,Female,1,rest of the world,presence,=> 400,0,Hepatitis C,0,1,3.066152756,1
+167,167,Treatment,70.6392766,Female,0,rest of the world,presence,<400,1,Nonviral,1,1,1.574365265,1
+168,168,Control,78.76553931,Male,1,Asia excluding Japan,presence,<400,0,Hepatitis B,0,0,5,0
+169,169,Treatment,63.13520817,Male,1,rest of the world,presence,=> 400,1,Hepatitis C,1,0,1.351170139,1
+170,170,Treatment,45.86553501,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,1,0,0.703290915,1
+171,171,Control,76.04188883,Female,0,Asia excluding Japan,presence,<400,0,Nonviral,0,1,0.545314367,1
+172,172,Control,77.79483747,Female,0,rest of the world,presence,<400,1,Hepatitis C,0,1,1.899672768,1
+173,173,Treatment,52.85035668,Male,1,Asia excluding Japan,absence,=> 400,1,Nonviral,1,0,4.937525864,1
+174,174,Control,55.35581682,Female,1,rest of the world,presence,=> 400,0,Hepatitis B,0,1,0.353643538,1
+175,175,Control,72.66568043,Male,0,Asia excluding Japan,presence,=> 400,1,Hepatitis C,0,0,1.678952235,1
+176,176,Treatment,77.80137587,Male,1,Asia excluding Japan,presence,=> 400,0,Nonviral,1,0,1.056882714,1
+177,177,Treatment,57.37021014,Male,1,Asia excluding Japan,absence,<400,0,Hepatitis B,1,0,2.599624817,1
+178,178,Treatment,53.5797971,Male,1,rest of the world,absence,=> 400,0,Hepatitis B,1,0,0.829642047,1
+179,179,Control,68.09287729,Male,0,rest of the world,absence,<400,0,Hepatitis B,0,0,1.961696043,1
+180,180,Control,41.2744528,Male,1,rest of the world,absence,=> 400,0,Nonviral,0,0,1.709679331,1
+181,181,Control,59.08078873,Male,1,Asia excluding Japan,absence,<400,0,Hepatitis B,0,0,0.500136139,1
+182,182,Treatment,57.42526697,Male,1,rest of the world,presence,<400,0,Hepatitis B,1,0,0.399463017,1
+183,183,Control,60.61769194,Male,1,rest of the world,presence,=> 400,1,Nonviral,0,0,0.035855309,1
+184,184,Control,49.75779864,Male,1,rest of the world,absence,=> 400,0,Hepatitis C,0,0,5,0
+185,185,Treatment,61.1440917,Male,1,rest of the world,absence,=> 400,1,Nonviral,1,0,0.280054891,1
+186,186,Treatment,43.35515845,Male,0,rest of the world,presence,<400,0,Hepatitis B,1,0,0.562428203,1
+187,187,Treatment,43.19559086,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,1,0,4.137703307,1
+188,188,Treatment,51.0435318,Male,1,rest of the world,presence,=> 400,1,Hepatitis B,1,0,4.757495212,1
+189,189,Treatment,51.88469025,Female,1,rest of the world,presence,<400,1,Hepatitis B,1,1,5,0
+190,190,Treatment,66.29742107,Female,0,rest of the world,presence,=> 400,0,Hepatitis B,1,1,4.639204088,1
+191,191,Control,61.66849244,Male,0,rest of the world,presence,=> 400,1,Nonviral,0,0,0.164468636,1
+192,192,Treatment,72.2625881,Male,0,rest of the world,absence,=> 400,0,Hepatitis B,1,0,5,0
+193,193,Control,60.1593847,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,0,0,1.203344748,1
+194,194,Control,62.40652273,Male,1,rest of the world,absence,<400,0,Nonviral,0,0,0.445125662,1
+195,195,Treatment,60.41416901,Male,1,Asia excluding Japan,absence,<400,0,Hepatitis B,1,0,5,0
+196,196,Control,73.36968021,Male,1,rest of the world,presence,=> 400,1,Nonviral,0,0,0.296963842,1
+197,197,Control,71.39570119,Female,1,rest of the world,absence,<400,1,Nonviral,0,1,1.371768272,1
+198,198,Control,69.63268713,Male,1,Asia excluding Japan,presence,=> 400,1,Hepatitis C,0,0,2.199675549,1
+199,199,Control,61.79121271,Male,0,Asia excluding Japan,presence,=> 400,1,Nonviral,0,0,2.015562344,1
+200,200,Control,79.8429298,Female,1,rest of the world,presence,<400,0,Nonviral,0,1,0.172829486,1
+201,201,Control,63.32269783,Male,1,rest of the world,presence,=> 400,0,Nonviral,0,0,5,0
+202,202,Treatment,66.88032834,Male,1,rest of the world,presence,<400,1,Hepatitis C,1,0,5,0
+203,203,Treatment,87.36147592,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,1,0,3.917216291,1
+204,204,Control,65.84113152,Male,0,rest of the world,absence,=> 400,0,Nonviral,0,0,1.059205586,1
+205,205,Treatment,79.31242512,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,1,0,0.666483114,1
+206,206,Control,66.48071629,Female,1,rest of the world,presence,=> 400,0,Nonviral,0,1,5,0
+207,207,Treatment,70.78440176,Male,0,rest of the world,presence,<400,1,Hepatitis B,1,0,1.529282412,1
+208,208,Treatment,56.09775975,Female,1,rest of the world,presence,=> 400,0,Hepatitis B,1,1,0.811380005,1
+209,209,Control,54.34087701,Female,0,Asia excluding Japan,presence,=> 400,0,Hepatitis B,0,1,2.140685754,1
+210,210,Control,76.29258498,Female,1,Asia excluding Japan,presence,=> 400,0,Hepatitis C,0,1,0.89040812,1
+211,211,Control,75.44487922,Male,1,rest of the world,absence,<400,1,Nonviral,0,0,1.107532843,0
+212,212,Control,70.54374294,Male,0,Asia excluding Japan,presence,<400,1,Hepatitis B,0,0,0.527771968,1
+213,213,Control,67.24023997,Female,1,rest of the world,absence,=> 400,0,Hepatitis B,0,1,2.033223491,1
+214,214,Control,66.86865559,Male,1,rest of the world,presence,=> 400,0,Hepatitis C,0,0,1.293337052,1
+215,215,Control,63.70814333,Male,0,rest of the world,absence,=> 400,0,Nonviral,0,0,2.437510378,1
+216,216,Treatment,47.00896621,Male,1,Asia excluding Japan,absence,=> 400,0,Hepatitis C,1,0,5,0
+217,217,Treatment,79.40737047,Male,1,Asia excluding Japan,presence,<400,0,Hepatitis B,1,0,1.449954839,1
+218,218,Control,69.46291137,Male,0,rest of the world,absence,=> 400,0,Hepatitis B,0,0,1.319352326,1
+219,219,Treatment,81.3160419,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,1,0,1.89518075,1
+220,220,Treatment,61.08648522,Male,0,Asia excluding Japan,presence,<400,1,Hepatitis B,1,0,0.155623177,1
+221,221,Control,80.01753391,Male,1,Asia excluding Japan,presence,<400,1,Hepatitis C,0,0,1.08642878,1
+222,222,Treatment,72.1585282,Female,1,rest of the world,absence,<400,0,Hepatitis C,1,1,0.27847541,1
+223,223,Treatment,57.13227147,Male,1,rest of the world,presence,<400,1,Hepatitis B,1,0,0.595891345,1
+224,224,Treatment,70.17381925,Male,1,Asia excluding Japan,presence,<400,1,Nonviral,1,0,4.678865566,1
+225,225,Treatment,47.28287621,Female,1,rest of the world,presence,<400,1,Hepatitis B,1,1,5,0
+226,226,Control,75.83056834,Male,1,rest of the world,presence,<400,0,Nonviral,0,0,3.276894121,1
+227,227,Control,60.39839576,Male,1,Asia excluding Japan,presence,<400,1,Nonviral,0,0,5,0
+228,228,Treatment,63.54959653,Male,1,Asia excluding Japan,absence,=> 400,0,Hepatitis B,1,0,5,0
+229,229,Control,61.9500126,Male,1,rest of the world,presence,=> 400,0,Hepatitis C,0,0,1.674906686,1
+230,230,Control,79.88133752,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,0,0,4.564904143,1
+231,231,Treatment,83.66518037,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,1,0,3.491354549,1
+232,232,Treatment,44.0919953,Male,1,rest of the world,presence,<400,0,Nonviral,1,0,1.20350618,1
+233,233,Treatment,73.00750986,Female,1,rest of the world,presence,<400,1,Nonviral,1,1,5,0
+234,234,Treatment,66.76404413,Male,1,Asia excluding Japan,presence,=> 400,1,Hepatitis B,1,0,1.325429409,1
+235,235,Treatment,57.76925228,Male,0,Asia excluding Japan,presence,<400,0,Nonviral,1,0,0.711756947,1
+236,236,Control,72.86740078,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,0,0,2.619585095,1
+237,237,Control,82.64168954,Male,0,rest of the world,absence,<400,1,Nonviral,0,0,0.009229701,1
+238,238,Control,74.82189983,Female,1,Asia excluding Japan,presence,<400,0,Hepatitis C,0,1,5,0
+239,239,Control,72.77533962,Female,1,rest of the world,absence,=> 400,0,Hepatitis B,0,1,0.876185844,1
+240,240,Control,63.76979376,Male,0,Asia excluding Japan,absence,=> 400,0,Hepatitis C,0,0,2.995715372,1
+241,241,Control,66.27736044,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,0,0,1.483775818,1
+242,242,Treatment,62.22504119,Male,1,Asia excluding Japan,presence,=> 400,0,Nonviral,1,0,1.565160739,0
+243,243,Control,63.54364201,Male,1,rest of the world,absence,=> 400,0,Hepatitis C,0,0,0.966112981,1
+244,244,Control,78.69132545,Female,1,Asia excluding Japan,presence,<400,0,Hepatitis B,0,1,1.978888041,1
+245,245,Control,65.71290726,Male,0,Asia excluding Japan,presence,=> 400,1,Hepatitis C,0,0,1.714251491,1
+246,246,Treatment,58.71608959,Male,1,rest of the world,presence,=> 400,0,Nonviral,1,0,0.549189,1
+247,247,Control,76.5839296,Female,1,rest of the world,presence,<400,1,Hepatitis B,0,1,2.298083762,1
+248,248,Control,58.71593777,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,0,0,0.249222763,1
+249,249,Control,58.90957145,Male,0,rest of the world,presence,=> 400,1,Hepatitis B,0,0,0.837946146,1
+250,250,Control,78.10265494,Male,1,rest of the world,presence,<400,0,Hepatitis C,0,0,3.834690177,1
+251,251,Treatment,71.96034393,Male,0,Asia excluding Japan,presence,=> 400,1,Nonviral,1,0,3.460099689,1
+252,252,Control,58.68839325,Male,0,rest of the world,presence,<400,0,Hepatitis C,0,0,2.897900358,1
+253,253,Treatment,50.75243509,Male,1,rest of the world,presence,=> 400,1,Hepatitis B,1,0,0.677321025,1
+254,254,Control,53.42472937,Male,1,rest of the world,absence,=> 400,0,Hepatitis B,0,0,3.256136408,1
+255,255,Control,74.34732199,Male,1,Asia excluding Japan,presence,=> 400,0,Nonviral,0,0,1.73159591,1
+256,256,Control,65.74648729,Male,1,rest of the world,absence,=> 400,0,Hepatitis B,0,0,0.764268556,1
+257,257,Control,76.57549021,Female,1,Asia excluding Japan,presence,=> 400,0,Hepatitis C,0,1,1.111241092,1
+258,258,Treatment,53.48822143,Male,0,rest of the world,presence,=> 400,0,Nonviral,1,0,0.674598764,1
+259,259,Treatment,82.55631072,Male,0,rest of the world,absence,=> 400,1,Hepatitis B,1,0,0.168601486,1
+260,260,Treatment,87.19186299,Male,0,Asia excluding Japan,presence,<400,1,Hepatitis B,1,0,0.121749246,1
+261,261,Control,72.3772216,Male,1,rest of the world,absence,<400,1,Nonviral,0,0,3.613766049,1
+262,262,Control,70.37889455,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,0,0,0.965518084,1
+263,263,Treatment,56.34701292,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,1,0,1.777927544,0
+264,264,Control,71.09530555,Male,1,rest of the world,presence,<400,0,Hepatitis B,0,0,1.738033192,1
+265,265,Control,50.85630572,Male,0,Asia excluding Japan,absence,=> 400,1,Nonviral,0,0,5,0
+266,266,Treatment,68.99068977,Male,0,rest of the world,presence,=> 400,1,Hepatitis B,1,0,3.332139947,1
+267,267,Treatment,58.87404423,Male,1,Asia excluding Japan,presence,=> 400,1,Nonviral,1,0,0.343115017,1
+268,268,Treatment,74.18222794,Male,1,rest of the world,absence,=> 400,0,Hepatitis B,1,0,0.662584314,1
+269,269,Treatment,73.17517793,Male,0,Asia excluding Japan,absence,=> 400,1,Hepatitis B,1,0,5,0
+270,270,Treatment,78.90011717,Female,0,rest of the world,presence,<400,0,Hepatitis B,1,1,3.185454597,1
+271,271,Treatment,86.57180848,Female,0,rest of the world,absence,<400,0,Nonviral,1,1,5,0
+272,272,Control,82.90749967,Male,1,rest of the world,presence,<400,1,Hepatitis C,0,0,0.738583679,1
+273,273,Treatment,59.42008814,Male,1,rest of the world,absence,=> 400,0,Hepatitis C,1,0,1.763778238,1
+274,274,Treatment,38.46005635,Male,1,rest of the world,presence,<400,0,Hepatitis C,1,0,5,0
+275,275,Treatment,61.25213291,Female,1,rest of the world,presence,=> 400,1,Hepatitis B,1,1,3.141037515,1
+276,276,Control,71.70774018,Female,1,Asia excluding Japan,absence,<400,1,Hepatitis B,0,1,1.548575307,1
+277,277,Treatment,59.24101678,Male,0,rest of the world,presence,=> 400,1,Hepatitis C,1,0,5,0
+278,278,Treatment,69.58713522,Male,1,rest of the world,presence,=> 400,1,Hepatitis B,1,0,1.35488743,1
+279,279,Control,76.98485424,Male,1,rest of the world,absence,<400,0,Hepatitis C,0,0,0.346563204,1
+280,280,Control,70.37511127,Male,1,rest of the world,presence,<400,0,Nonviral,0,0,3.721036832,1
+281,281,Treatment,65.57660052,Male,1,Asia excluding Japan,absence,<400,0,Nonviral,1,0,0.34357179,1
+282,282,Control,57.45875026,Male,1,rest of the world,absence,=> 400,1,Hepatitis B,0,0,0.687136863,1
+283,283,Treatment,61.90130656,Female,1,rest of the world,absence,<400,0,Hepatitis B,1,1,5,0
+284,284,Control,68.52290719,Male,0,Asia excluding Japan,presence,<400,0,Nonviral,0,0,2.289755835,1
+285,285,Control,75.4788635,Male,0,rest of the world,presence,=> 400,0,Nonviral,0,0,2.049622053,1
+286,286,Treatment,67.41885393,Male,0,Asia excluding Japan,absence,=> 400,1,Nonviral,1,0,5,0
+287,287,Treatment,60.92766858,Male,1,Asia excluding Japan,presence,=> 400,1,Hepatitis C,1,0,5,0
+288,288,Control,93.36271552,Male,0,Asia excluding Japan,presence,=> 400,1,Hepatitis B,0,0,2.871263916,1
+289,289,Control,77.18290214,Male,1,Asia excluding Japan,presence,<400,1,Hepatitis B,0,0,2.084047718,1
+290,290,Control,53.28252503,Male,0,rest of the world,presence,<400,1,Hepatitis B,0,0,3.652017151,1
+291,291,Control,77.67108507,Male,0,Asia excluding Japan,presence,=> 400,0,Hepatitis B,0,0,0.092006798,1
+292,292,Treatment,64.73165245,Male,1,rest of the world,presence,<400,0,Hepatitis C,1,0,5,0
+293,293,Treatment,73.80639845,Female,1,Asia excluding Japan,presence,=> 400,0,Hepatitis C,1,1,0.589508701,1
+294,294,Treatment,64.61435433,Male,0,rest of the world,presence,=> 400,0,Hepatitis B,1,0,2.617802169,1
+295,295,Control,63.30698354,Male,0,rest of the world,absence,=> 400,0,Hepatitis C,0,0,0.513716027,1
+296,296,Control,65.07472812,Female,0,Asia excluding Japan,absence,<400,1,Nonviral,0,1,0.295436176,1
+297,297,Treatment,68.89591873,Male,0,Asia excluding Japan,absence,<400,1,Hepatitis B,1,0,5,0
+298,298,Treatment,56.76388295,Male,0,Asia excluding Japan,presence,=> 400,0,Nonviral,1,0,3.772835266,1
+299,299,Treatment,56.22685469,Male,0,Asia excluding Japan,presence,=> 400,0,Nonviral,1,0,0.629663956,1
+300,300,Treatment,68.0375076,Male,1,rest of the world,presence,=> 400,1,Hepatitis B,1,0,3.070393522,1
+301,301,Control,66.03177545,Male,0,Asia excluding Japan,absence,=> 400,1,Nonviral,0,0,3.820683429,1
+302,302,Treatment,60.23565499,Male,1,rest of the world,presence,=> 400,0,Hepatitis C,1,0,4.273074021,1
+303,303,Treatment,67.75969684,Male,1,Asia excluding Japan,absence,=> 400,1,Hepatitis B,1,0,5,0
+304,304,Treatment,75.73002805,Male,1,rest of the world,presence,<400,1,Hepatitis B,1,0,0.317964235,0
+305,305,Control,51.52024749,Male,1,Asia excluding Japan,presence,=> 400,1,Hepatitis C,0,0,4.662235071,1
+306,306,Control,86.44079755,Male,1,rest of the world,presence,<400,0,Hepatitis B,0,0,0.53386867,1
+307,307,Treatment,57.71159764,Female,1,rest of the world,absence,=> 400,0,Hepatitis B,1,1,5,0
+308,308,Control,59.29092077,Female,0,rest of the world,presence,=> 400,0,Hepatitis B,0,1,1.918571574,1
+309,309,Treatment,69.29935388,Male,1,rest of the world,absence,=> 400,0,Hepatitis C,1,0,1.698923866,0
+310,310,Treatment,73.31214958,Male,0,rest of the world,absence,=> 400,0,Nonviral,1,0,0.173061329,1
+311,311,Treatment,77.87536807,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,1,0,5,0
+312,312,Treatment,66.27864101,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,1,0,5,0
+313,313,Control,60.860137,Male,1,rest of the world,presence,<400,1,Nonviral,0,0,0.098566848,0
+314,314,Treatment,58.05309091,Male,0,rest of the world,absence,=> 400,0,Hepatitis C,1,0,0.305295648,1
+315,315,Treatment,71.14246498,Male,1,rest of the world,presence,<400,0,Nonviral,1,0,4.633213067,1
+316,316,Control,65.67824149,Female,0,rest of the world,absence,=> 400,1,Nonviral,0,1,4.697064559,1
+317,317,Control,79.44056572,Male,0,Asia excluding Japan,presence,=> 400,1,Hepatitis B,0,0,3.019159049,0
+318,318,Treatment,62.3449895,Male,1,rest of the world,presence,=> 400,1,Hepatitis B,1,0,5,0
+319,319,Control,71.47231417,Male,1,Asia excluding Japan,presence,=> 400,1,Hepatitis B,0,0,1.707714085,1
+320,320,Treatment,69.92889854,Male,1,rest of the world,presence,=> 400,0,Nonviral,1,0,3.340640229,1
+321,321,Control,74.75776242,Male,1,rest of the world,absence,<400,1,Hepatitis B,0,0,1.344508192,1
+322,322,Treatment,59.55468436,Male,1,rest of the world,absence,=> 400,0,Hepatitis B,1,0,2.208242737,1
+323,323,Treatment,62.72615091,Male,1,Asia excluding Japan,presence,<400,0,Nonviral,1,0,5,0
+324,324,Control,59.97891917,Female,1,Asia excluding Japan,presence,=> 400,0,Nonviral,0,1,0.64924403,1
+325,325,Control,75.43004326,Male,0,Asia excluding Japan,absence,=> 400,1,Hepatitis B,0,0,2.10190013,1
+326,326,Control,59.39232868,Male,1,rest of the world,absence,<400,1,Hepatitis B,0,0,1.563927528,1
+327,327,Control,76.32444181,Male,1,Asia excluding Japan,absence,=> 400,1,Hepatitis B,0,0,0.670251558,1
+328,328,Control,74.20265037,Male,1,rest of the world,presence,=> 400,1,Hepatitis B,0,0,1.885255226,1
+329,329,Control,56.00917794,Male,0,rest of the world,presence,=> 400,0,Hepatitis B,0,0,2.675001671,1
+330,330,Treatment,78.51817238,Male,1,rest of the world,presence,=> 400,0,Hepatitis C,1,0,1.811434291,1
+331,331,Treatment,67.31788689,Male,1,rest of the world,presence,=> 400,1,Hepatitis C,1,0,0.029777742,1
+332,332,Treatment,96.13048006,Male,1,rest of the world,presence,=> 400,0,Hepatitis C,1,0,1.807376516,1
+333,333,Treatment,71.48171769,Male,0,Asia excluding Japan,presence,=> 400,0,Hepatitis C,1,0,3.93466035,1
+334,334,Treatment,70.39038592,Male,1,Asia excluding Japan,presence,<400,0,Nonviral,1,0,0.308171138,1
+335,335,Control,59.80664954,Male,1,Asia excluding Japan,presence,=> 400,1,Nonviral,0,0,0.660499955,1
+336,336,Treatment,53.0184629,Male,1,rest of the world,absence,<400,1,Hepatitis C,1,0,4.414446506,1
+337,337,Control,60.72760904,Male,1,Asia excluding Japan,presence,=> 400,1,Nonviral,0,0,3.457642832,1
+338,338,Control,61.264456,Male,0,rest of the world,absence,=> 400,0,Hepatitis B,0,0,1.076301451,1
+339,339,Treatment,73.08617796,Male,1,rest of the world,presence,<400,1,Hepatitis B,1,0,5,0
+340,340,Control,67.04900569,Male,1,rest of the world,presence,=> 400,1,Nonviral,0,0,0.330353234,1
+341,341,Control,53.51135928,Male,0,rest of the world,absence,<400,1,Hepatitis B,0,0,5,0
+342,342,Treatment,88.38039898,Male,1,Asia excluding Japan,presence,<400,0,Nonviral,1,0,0.081542908,0
+343,343,Treatment,73.28560823,Male,0,rest of the world,absence,<400,0,Hepatitis B,1,0,0.573942611,1
+344,344,Treatment,55.06297633,Male,1,Asia excluding Japan,absence,=> 400,1,Hepatitis C,1,0,1.06390764,1
+345,345,Control,67.23845954,Male,1,rest of the world,presence,=> 400,1,Hepatitis B,0,0,0.547836041,1
+346,346,Control,59.65497301,Male,1,Asia excluding Japan,presence,<400,0,Nonviral,0,0,3.472425946,1
+347,347,Control,61.72499113,Male,1,rest of the world,absence,=> 400,0,Nonviral,0,0,0.544856202,1
+348,348,Control,51.04829586,Male,1,Asia excluding Japan,absence,<400,1,Hepatitis B,0,0,3.526060241,1
+349,349,Treatment,68.99485552,Male,1,Asia excluding Japan,absence,=> 400,0,Hepatitis B,1,0,3.586255576,1
+350,350,Control,82.85069292,Female,1,Asia excluding Japan,presence,<400,1,Hepatitis B,0,1,5,0
+351,351,Control,56.44700543,Male,1,rest of the world,presence,<400,0,Hepatitis B,0,0,0.726679081,1
+352,352,Control,53.52332834,Male,0,rest of the world,presence,=> 400,1,Hepatitis C,0,0,2.8309422,1
+353,353,Control,68.04329303,Male,1,Asia excluding Japan,presence,<400,1,Hepatitis B,0,0,3.322932031,1
+354,354,Treatment,50.26164694,Male,1,rest of the world,presence,=> 400,1,Hepatitis C,1,0,2.103897487,0
+355,355,Control,85.9429075,Female,1,rest of the world,presence,=> 400,1,Hepatitis B,0,1,0.099587814,1
+356,356,Treatment,72.93852333,Male,1,rest of the world,presence,=> 400,1,Hepatitis B,1,0,5,0
+357,357,Control,90.42032862,Male,1,Asia excluding Japan,presence,<400,0,Hepatitis B,0,0,1.535845523,1
+358,358,Control,69.68342638,Male,1,Asia excluding Japan,absence,=> 400,0,Hepatitis B,0,0,0.184907234,1
+359,359,Control,58.13001522,Male,0,Asia excluding Japan,absence,<400,1,Hepatitis C,0,0,0.416033971,1
+360,360,Control,40.3822613,Female,1,rest of the world,presence,=> 400,0,Hepatitis B,0,1,3.55857693,1
+361,361,Treatment,55.67120602,Male,1,rest of the world,presence,<400,1,Hepatitis B,1,0,0.501513061,0
+362,362,Control,59.90527855,Female,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,0,1,0.462292372,1
+363,363,Treatment,63.3077653,Female,1,Asia excluding Japan,absence,=> 400,1,Nonviral,1,1,2.607640982,1
+364,364,Treatment,68.47745567,Female,1,Asia excluding Japan,presence,<400,1,Hepatitis B,1,1,2.261303054,0
+365,365,Treatment,74.83072675,Female,0,Asia excluding Japan,absence,=> 400,1,Hepatitis B,1,1,0.698657709,1
+366,366,Control,78.29677049,Male,1,Asia excluding Japan,absence,<400,1,Hepatitis C,0,0,2.640198204,1
+367,367,Control,63.00155657,Male,1,Asia excluding Japan,presence,<400,0,Nonviral,0,0,2.449559334,1
+368,368,Control,58.71102364,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis C,0,0,1.171041633,1
+369,369,Treatment,63.09120769,Male,1,Asia excluding Japan,absence,<400,0,Hepatitis B,1,0,2.743823894,1
+370,370,Control,78.00064885,Male,1,rest of the world,presence,=> 400,0,Nonviral,0,0,4.140892666,1
+371,371,Treatment,69.58942854,Male,0,Asia excluding Japan,presence,=> 400,1,Hepatitis B,1,0,2.660662834,1
+372,372,Treatment,80.99608342,Male,1,Asia excluding Japan,absence,=> 400,0,Hepatitis B,1,0,2.587563442,1
+373,373,Treatment,93.16565205,Male,1,Asia excluding Japan,presence,=> 400,1,Nonviral,1,0,0.476789249,1
+374,374,Treatment,54.82788098,Male,1,rest of the world,absence,=> 400,0,Nonviral,1,0,5,0
+375,375,Control,69.06322855,Male,1,rest of the world,presence,=> 400,1,Nonviral,0,0,0.810795093,1
+376,376,Treatment,39.58875574,Male,1,Asia excluding Japan,absence,=> 400,0,Hepatitis C,1,0,5,0
+377,377,Treatment,63.60088236,Male,1,rest of the world,presence,<400,0,Hepatitis B,1,0,0.130772791,1
+378,378,Treatment,72.67943215,Male,1,rest of the world,absence,=> 400,1,Hepatitis C,1,0,2.399294305,0
+379,379,Control,69.99247837,Male,1,Asia excluding Japan,presence,<400,1,Hepatitis B,0,0,0.433387614,1
+380,380,Treatment,61.54527979,Male,1,Asia excluding Japan,presence,=> 400,1,Hepatitis C,1,0,5,0
+381,381,Control,66.26339197,Male,0,Asia excluding Japan,presence,<400,0,Hepatitis B,0,0,0.359961703,1
+382,382,Treatment,42.13371882,Female,1,rest of the world,presence,<400,1,Nonviral,1,1,0.077775265,1
+383,383,Treatment,51.27542021,Male,0,rest of the world,presence,<400,0,Hepatitis B,1,0,0.091371809,1
+384,384,Treatment,77.51986393,Male,1,Asia excluding Japan,presence,=> 400,1,Nonviral,1,0,1.99674075,1
+385,385,Control,71.37312664,Male,1,Asia excluding Japan,presence,=> 400,0,Nonviral,0,0,2.185680834,1
+386,386,Treatment,73.93279011,Female,0,Asia excluding Japan,absence,=> 400,1,Hepatitis B,1,1,0.824127154,1
+387,387,Treatment,61.59065574,Male,0,rest of the world,presence,=> 400,0,Nonviral,1,0,0.303783424,1
+388,388,Control,62.20246267,Male,1,rest of the world,absence,=> 400,0,Hepatitis B,0,0,1.204862873,1
+389,389,Treatment,62.0684474,Female,0,Asia excluding Japan,absence,<400,1,Hepatitis B,1,1,3.115155423,1
+390,390,Treatment,52.9335359,Male,0,Asia excluding Japan,presence,<400,1,Hepatitis B,1,0,1.32823919,1
+391,391,Treatment,82.2317988,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,1,0,1.689384764,1
+392,392,Control,55.38059351,Male,0,rest of the world,presence,=> 400,1,Nonviral,0,0,1.700360097,1
+393,393,Control,54.99260852,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis C,0,0,3.128026976,1
+394,394,Treatment,64.93375838,Male,0,Asia excluding Japan,presence,=> 400,0,Hepatitis C,1,0,1.93535647,1
+395,395,Treatment,58.65292713,Male,0,Asia excluding Japan,presence,=> 400,0,Hepatitis C,1,0,3.633637961,1
+396,396,Control,53.07583803,Male,1,rest of the world,presence,<400,0,Hepatitis B,0,0,2.5618949,0
+397,397,Control,66.37527093,Male,1,Asia excluding Japan,presence,=> 400,1,Nonviral,0,0,0.25505272,1
+398,398,Control,66.58060356,Female,1,Asia excluding Japan,presence,<400,0,Hepatitis B,0,1,2.015274199,1
+399,399,Control,77.52240476,Male,1,Asia excluding Japan,absence,=> 400,1,Hepatitis B,0,0,1.675996671,1
+400,400,Control,58.47634548,Female,1,Asia excluding Japan,presence,<400,1,Hepatitis B,0,1,5,0
+401,401,Control,81.24445357,Male,1,Asia excluding Japan,absence,=> 400,1,Nonviral,0,0,3.539680011,1
+402,402,Control,53.74565433,Male,1,rest of the world,presence,=> 400,0,Nonviral,0,0,5,0
+403,403,Control,45.06677372,Male,0,Asia excluding Japan,absence,=> 400,0,Hepatitis B,0,0,2.014066585,1
+404,404,Treatment,40.9186848,Female,1,rest of the world,absence,=> 400,1,Hepatitis B,1,1,0.088650521,1
+405,405,Treatment,77.09494158,Male,1,Asia excluding Japan,presence,<400,0,Hepatitis C,1,0,5,0
+406,406,Treatment,67.61603324,Male,0,Asia excluding Japan,presence,<400,0,Hepatitis C,1,0,5,0
+407,407,Treatment,68.67286849,Male,1,rest of the world,presence,=> 400,1,Hepatitis B,1,0,0.408909301,1
+408,408,Treatment,60.51750447,Male,0,rest of the world,presence,=> 400,0,Hepatitis C,1,0,1.393720526,1
+409,409,Control,82.81429043,Male,1,Asia excluding Japan,presence,<400,0,Hepatitis B,0,0,1.035369727,1
+410,410,Control,72.78552071,Male,1,rest of the world,presence,<400,0,Hepatitis B,0,0,3.996912615,1
+411,411,Control,52.09482396,Male,1,Asia excluding Japan,presence,<400,0,Hepatitis B,0,0,2.498614798,1
+412,412,Treatment,47.50139795,Male,1,Asia excluding Japan,absence,=> 400,0,Hepatitis B,1,0,1.607707155,1
+413,413,Treatment,65.60891949,Male,1,rest of the world,presence,<400,1,Hepatitis B,1,0,5,0
+414,414,Control,70.64931572,Male,1,rest of the world,presence,=> 400,0,Nonviral,0,0,0.18379892,1
+415,415,Control,57.93934651,Male,1,rest of the world,absence,=> 400,1,Hepatitis C,0,0,3.57488654,1
+416,416,Control,70.6392766,Male,1,Asia excluding Japan,presence,<400,0,Hepatitis B,0,0,3.528037139,1
+417,417,Treatment,78.76553931,Male,0,rest of the world,presence,=> 400,0,Hepatitis C,1,0,1.313579156,1
+418,418,Treatment,56.11087672,Male,1,Asia excluding Japan,absence,=> 400,0,Hepatitis B,1,0,0.233444921,1
+419,419,Control,69.15954216,Male,1,rest of the world,presence,=> 400,0,Nonviral,0,0,0.5804318,1
+420,420,Control,63.13520817,Male,0,rest of the world,presence,=> 400,0,Nonviral,0,0,1.100025016,1
+421,421,Control,48.79576139,Male,1,rest of the world,presence,=> 400,0,Nonviral,0,0,3.372641335,1
+422,422,Control,55.86976026,Male,1,rest of the world,absence,=> 400,0,Hepatitis B,0,0,4.183466125,1
+423,423,Treatment,77.79483747,Male,1,rest of the world,presence,<400,1,Hepatitis C,1,0,5,0
+424,424,Control,57.70544715,Male,1,rest of the world,presence,<400,0,Nonviral,0,0,1.882217811,1
+425,425,Treatment,77.80137587,Male,1,Asia excluding Japan,presence,=> 400,1,Hepatitis C,1,0,1.130675849,1
+426,426,Treatment,57.37021014,Male,1,rest of the world,presence,=> 400,0,Hepatitis C,1,0,1.923164468,1
+427,427,Treatment,61.44330994,Female,0,rest of the world,presence,<400,0,Nonviral,1,1,5,0
+428,428,Treatment,57.72861972,Female,0,rest of the world,absence,=> 400,0,Nonviral,1,1,2.304720939,1
+429,429,Treatment,75.24055564,Male,0,Asia excluding Japan,presence,=> 400,1,Hepatitis B,1,0,4.974050375,1
+430,430,Treatment,59.08078873,Male,1,Asia excluding Japan,presence,=> 400,1,Hepatitis C,1,0,4.094351752,0
+431,431,Treatment,57.42526697,Female,1,Asia excluding Japan,presence,=> 400,0,Nonviral,1,1,5,0
+432,432,Control,52.73130073,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis C,0,0,5,0
+433,433,Treatment,73.17537767,Male,1,Asia excluding Japan,absence,<400,0,Hepatitis B,1,0,5,0
+434,434,Control,43.7915538,Male,1,Asia excluding Japan,presence,<400,0,Hepatitis B,0,0,4.980418396,0
+435,435,Control,49.75779864,Female,1,rest of the world,absence,=> 400,0,Hepatitis B,0,1,5,0
+436,436,Treatment,61.1440917,Male,1,rest of the world,absence,<400,1,Hepatitis B,1,0,1.374277926,1
+437,437,Treatment,60.41716058,Female,1,rest of the world,absence,<400,1,Hepatitis B,1,1,5,0
+438,438,Control,45.69205702,Male,1,rest of the world,absence,<400,0,Nonviral,0,0,0.699691277,1
+439,439,Treatment,70.04165076,Male,0,rest of the world,presence,<400,0,Hepatitis B,1,0,2.817952928,1
+440,440,Control,81.96414811,Male,1,rest of the world,presence,<400,0,Hepatitis C,0,0,5,0
+441,441,Control,62.12529139,Male,1,rest of the world,absence,=> 400,0,Hepatitis B,0,0,0.894981212,1
+442,442,Control,60.1593847,Male,1,rest of the world,presence,<400,0,Nonviral,0,0,0.263640232,1
+443,443,Treatment,72.2625881,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,1,0,5,0
+444,444,Control,60.41416901,Male,0,rest of the world,presence,=> 400,0,Hepatitis B,0,0,1.383343765,1
+445,445,Control,62.40652273,Male,0,rest of the world,presence,<400,1,Hepatitis B,0,0,5,0
+446,446,Treatment,39.41414534,Male,1,Asia excluding Japan,presence,=> 400,0,Nonviral,1,0,2.345556097,1
+447,447,Treatment,68.57069002,Male,0,Asia excluding Japan,presence,<400,1,Hepatitis B,1,0,5,0
+448,448,Control,61.79121271,Female,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,0,1,1.259941086,1
+449,449,Treatment,58.27924261,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,1,0,5,0
+450,450,Control,70.78005541,Male,0,Asia excluding Japan,presence,<400,1,Hepatitis C,0,0,0.581545828,0
+451,451,Treatment,79.8429298,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,1,0,0.262335367,0
+452,452,Control,48.88572602,Male,0,rest of the world,presence,=> 400,0,Hepatitis C,0,0,2.294268091,1
+453,453,Treatment,65.84113152,Male,1,Asia excluding Japan,presence,=> 400,1,Hepatitis B,1,0,5,0
+454,454,Control,87.36147592,Female,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,0,1,0.03609888,1
+455,455,Treatment,57.71331097,Male,0,rest of the world,presence,=> 400,0,Hepatitis B,1,0,0.7148586,1
+456,456,Control,79.31242512,Male,1,rest of the world,presence,<400,0,Nonviral,0,0,0.104468144,1
+457,457,Control,56.79955479,Male,0,rest of the world,presence,=> 400,0,Nonviral,0,0,2.796922258,1
+458,458,Control,84.28365886,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,0,0,0.833063356,1
+459,459,Treatment,59.65120456,Male,1,rest of the world,presence,=> 400,0,Hepatitis B,1,0,0.67733228,1
+460,460,Treatment,59.0736434,Female,1,Asia excluding Japan,presence,<400,0,Nonviral,1,1,1.869505994,1
+461,461,Treatment,76.29258498,Male,1,rest of the world,presence,=> 400,0,Nonviral,1,0,0.514176118,1
+462,462,Control,75.44487922,Male,1,Asia excluding Japan,absence,=> 400,0,Hepatitis B,0,0,3.719836948,1
+463,463,Control,63.99279896,Male,1,rest of the world,presence,=> 400,1,Hepatitis C,0,0,0.264066365,1
+464,464,Treatment,67.24023997,Male,1,rest of the world,presence,=> 400,0,Hepatitis C,1,0,0.02538043,1
+465,465,Treatment,69.42005668,Male,1,rest of the world,presence,<400,0,Hepatitis B,1,0,5,0
+466,466,Treatment,88.37114688,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis B,1,0,3.393903012,1
+467,467,Control,69.46291137,Male,1,rest of the world,presence,=> 400,0,Hepatitis C,0,0,1.71323221,1
+468,468,Control,81.3160419,Male,0,rest of the world,presence,<400,1,Nonviral,0,0,2.650715583,1
+469,469,Control,48.82834925,Female,1,rest of the world,presence,<400,1,Hepatitis B,0,1,3.43522404,1
+470,470,Control,80.01753391,Male,1,rest of the world,absence,=> 400,0,Nonviral,0,0,1.034876712,1
+471,471,Treatment,61.08648522,Male,1,Asia excluding Japan,presence,=> 400,0,Hepatitis C,1,0,4.599002268,1
+472,472,Treatment,53.63218301,Male,0,rest of the world,absence,<400,0,Nonviral,1,0,0.167383015,1
+473,473,Treatment,85.15148118,Female,1,Asia excluding Japan,absence,=> 400,1,Hepatitis C,1,1,5,0
+474,474,Control,53.15495141,Female,1,rest of the world,absence,=> 400,0,Hepatitis B,0,1,1.595479631,1
+475,475,Treatment,87.99200266,Male,1,Asia excluding Japan,absence,=> 400,0,Nonviral,1,0,0.958302399,1
+476,476,Control,47.28287621,Female,1,rest of the world,presence,=> 400,1,Nonviral,0,1,3.421974719,1
+477,477,Control,79.630611,Male,0,Asia excluding Japan,presence,=> 400,0,Nonviral,0,0,3.985439538,1
+478,478,Control,58.94762082,Male,1,rest of the world,presence,=> 400,0,Nonviral,0,0,0.850813753,1
+479,479,Treatment,57.1559062,Male,0,rest of the world,presence,<400,0,Hepatitis B,1,0,2.175890332,1
+480,480,Control,61.9500126,Male,0,rest of the world,presence,<400,0,Hepatitis B,0,0,2.756053908,1
+481,481,Treatment,79.88133752,Female,1,rest of the world,presence,<400,0,Hepatitis B,1,1,1.834666529,1
+482,482,Treatment,73.00750986,Male,1,rest of the world,presence,<400,0,Hepatitis B,1,0,2.523291395,1
+483,483,Treatment,66.76404413,Male,1,Asia excluding Japan,presence,=> 400,1,Hepatitis B,1,0,2.041928778,1
+484,484,Control,73.64183432,Male,1,rest of the world,absence,=> 400,0,Hepatitis C,0,0,2.375198918,1
+485,485,Control,94.57651379,Male,1,rest of the world,absence,<400,0,Hepatitis C,0,0,0.734501664,1
+486,486,Treatment,82.64168954,Male,0,Asia excluding Japan,presence,<400,0,Nonviral,1,0,3.315410042,1
+487,487,Treatment,63.23637781,Male,1,Asia excluding Japan,presence,=> 400,1,Hepatitis B,1,0,5,0
+488,488,Treatment,63.86012513,Male,1,Asia excluding Japan,presence,=> 400,1,Nonviral,1,0,2.292374637,1
+489,489,Control,63.76979376,Male,1,rest of the world,presence,=> 400,0,Nonviral,0,0,0.410284968,0
+490,490,Treatment,72.77533962,Male,1,rest of the world,presence,=> 400,0,Nonviral,1,0,5,0
+491,491,Treatment,65.22596774,Female,1,rest of the world,absence,=> 400,1,Nonviral,1,1,1.388020987,1
+492,492,Treatment,63.54364201,Male,1,rest of the world,presence,<400,1,Hepatitis B,1,0,1.472162008,1
+493,493,Control,81.53987079,Male,0,Asia excluding Japan,absence,<400,1,Nonviral,0,0,3.35754009,1
+494,494,Control,37.86031267,Male,1,rest of the world,presence,<400,0,Hepatitis B,0,0,1.893761734,1
+495,495,Control,58.71608959,Male,1,Asia excluding Japan,presence,<400,0,Hepatitis B,0,0,5,0
+496,496,Treatment,65.71290726,Male,1,rest of the world,presence,<400,0,Hepatitis B,1,0,2.19623086,1
+497,497,Control,54.7117843,Female,1,Asia excluding Japan,presence,=> 400,0,Nonviral,0,1,5,0
+498,498,Control,76.5839296,Female,1,rest of the world,presence,=> 400,0,Hepatitis B,0,1,1.508649966,1
+499,499,Treatment,58.95518519,Male,1,Asia excluding Japan,absence,<400,0,Hepatitis B,1,0,3.978611401,1
+500,500,Treatment,71.96034393,Female,1,rest of the world,presence,=> 400,1,Hepatitis B,1,1,5,0
