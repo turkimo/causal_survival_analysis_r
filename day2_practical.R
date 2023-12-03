@@ -1,4 +1,4 @@
-# Day 3 Practical 
+# Day 2 Practical 
 library(survival)
 library(survminer)
 library(KMunicate)

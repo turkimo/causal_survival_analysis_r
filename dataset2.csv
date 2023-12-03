@@ -1,0 +1,501 @@
+"","id","Treatment","Age","Sex","ChildPugh","gregion","miexhep","alpha_feto","ecog_perf","hc_cause","TreatmentTreatment","SexFemale","eventtime","status"
+"1",1,"Treatment",50.039497537128,"Male",0,"rest of the world","presence","<400","0","Hepatitis B",1,0,1.52801116955093,1
+"2",2,"Treatment",59.7052915498134,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",1,0,1.40322278397473,1
+"3",3,"Control",63.4579186985347,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis C",0,0,4.00301752518764,1
+"4",4,"Treatment",57.3759031869157,"Female",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",1,1,0.498091726817994,1
+"5",5,"Control",73.3734685679007,"Male",0,"rest of the world","absence","≥400","0","Nonviral",0,0,5,0
+"6",6,"Control",62.277933336098,"Male",0,"Asia excluding Japan","absence","≥400","0","Nonviral",0,0,4.32639280377099,1
+"7",7,"Control",67.4110000522027,"Female",0,"rest of the world","presence","≥400","0","Hepatitis B",0,1,5,0
+"8",8,"Control",57.2239743231844,"Female",0,"rest of the world","absence","≥400","0","Hepatitis B",0,1,5,0
+"9",9,"Treatment",62.9155425092271,"Female",0,"rest of the world","presence","≥400","1","Nonviral",1,1,3.34817946169956,1
+"10",10,"Treatment",56.1339221029201,"Male",0,"Asia excluding Japan","absence","≥400","0","Nonviral",1,0,0.0386175029933229,1
+"11",11,"Control",70.7698865606842,"Male",0,"rest of the world","presence","<400","0","Nonviral",0,0,0.976600449904676,1
+"12",12,"Control",69.3468501784103,"Male",0,"rest of the world","absence","<400","0","Hepatitis B",0,0,1.33837198442361,1
+"13",13,"Treatment",61.0039601091329,"Female",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",1,1,5,0
+"14",14,"Treatment",55.3248777812416,"Male",0,"rest of the world","presence","<400","1","Hepatitis B",1,0,2.62850436991486,1
+"15",15,"Control",54.9294888714126,"Male",0,"rest of the world","presence","<400","1","Hepatitis B",0,0,0.602491110634071,1
+"16",16,"Treatment",57.8133572173906,"Male",0,"rest of the world","absence","<400","0","Nonviral",1,0,0.0286727499079632,1
+"17",17,"Control",65.6818590906576,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis C",0,0,5,0
+"18",18,"Control",65.2957273406363,"Female",0,"Asia excluding Japan","absence","≥400","0","Nonviral",0,1,5,0
+"19",19,"Control",59.7994545833859,"Male",0,"Asia excluding Japan","absence","≥400","0","Hepatitis B",0,0,5,0
+"20",20,"Treatment",55.2077407869543,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis C",1,0,1.45942888596249,1
+"21",21,"Treatment",67.5645235871482,"Male",0,"Asia excluding Japan","presence","<400","0","Nonviral",1,0,0.283778009857189,1
+"22",22,"Treatment",57.3479707897196,"Male",0,"rest of the world","presence","≥400","0","Nonviral",1,0,1.31827569245596,1
+"23",23,"Treatment",61.5332951330699,"Female",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,1,0.889462405408436,1
+"24",24,"Control",61.6066117591372,"Male",0,"rest of the world","presence","<400","0","Hepatitis B",0,0,3.26771867934737,1
+"25",25,"Control",62.8384429472571,"Male",0,"Asia excluding Japan","absence","<400","0","Hepatitis B",0,0,5,0
+"26",26,"Treatment",53.7379259220211,"Female",0,"Asia excluding Japan","presence","<400","0","Hepatitis C",1,1,1.7823144067383,1
+"27",27,"Control",61.8058935717197,"Male",0,"rest of the world","presence","≥400","0","Nonviral",0,0,2.39367765650043,1
+"28",28,"Control",62.1645756560007,"Male",0,"rest of the world","absence","≥400","1","Hepatitis C",0,0,0.108704595411709,1
+"29",29,"Treatment",55.2232490317465,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",1,0,1.83617344078839,1
+"30",30,"Control",60.3368757102076,"Male",0,"Asia excluding Japan","presence","<400","1","Hepatitis B",0,0,5,0
+"31",31,"Control",57.3832018371318,"Male",0,"rest of the world","presence","<400","1","Hepatitis B",0,0,1.21370816205336,1
+"32",32,"Treatment",60.4971765346214,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis C",1,0,1.56613027532217,1
+"33",33,"Treatment",64.2510573744841,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",1,0,0.556061056933171,1
+"34",34,"Treatment",52.9963891865826,"Female",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",1,1,2.95487852328559,1
+"35",35,"Treatment",53.8145717121066,"Female",0,"rest of the world","presence","<400","1","Hepatitis C",1,1,0.39013305226851,1
+"36",36,"Control",52.9677882429066,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",0,0,4.93873081775196,1
+"37",37,"Control",48.3719511376675,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",0,0,1.77312950299856,1
+"38",38,"Control",51.9146486458922,"Female",0,"rest of the world","presence","≥400","0","Hepatitis C",0,1,1.14359591337248,1
+"39",39,"Treatment",55.1425057250682,"Female",0,"rest of the world","presence","<400","1","Hepatitis B",1,1,1.23300395016817,1
+"40",40,"Control",54.8194316453782,"Female",0,"Asia excluding Japan","presence","≥400","1","Hepatitis C",0,1,0.603142980457686,1
+"41",41,"Control",67.57476459454,"Male",0,"rest of the world","presence","≥400","1","Hepatitis C",0,0,0.904427779998539,1
+"42",42,"Control",58.5730490074698,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",0,0,2.70084065963074,1
+"43",43,"Control",56.0203107303848,"Male",0,"Asia excluding Japan","presence","<400","1","Hepatitis B",0,0,5,0
+"44",44,"Control",59.1121214035533,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",0,0,1.52990864989094,1
+"45",45,"Treatment",64.6804952381946,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",1,0,0.0605483324124772,1
+"46",46,"Treatment",53.6811869356943,"Male",0,"Asia excluding Japan","absence","≥400","0","Hepatitis B",1,0,3.04223673957867,1
+"47",47,"Treatment",54.995032672147,"Male",0,"rest of the world","presence","≥400","0","Nonviral",1,0,1.82583221725934,1
+"48",48,"Treatment",58.0100616341552,"Male",0,"rest of the world","presence","≥400","0","Nonviral",1,0,0.620290797094215,1
+"49",49,"Control",56.9742237598162,"Male",0,"rest of the world","absence","≥400","1","Hepatitis C",0,0,5,0
+"50",50,"Control",58.5487348634131,"Male",0,"rest of the world","presence","<400","1","Hepatitis B",0,0,1.09875592878347,1
+"51",51,"Treatment",64.1097285645624,"Male",0,"rest of the world","absence","<400","1","Hepatitis C",1,0,0.161107338084321,1
+"52",52,"Control",57.0228874413318,"Female",0,"Asia excluding Japan","absence","≥400","1","Hepatitis B",0,1,0.0495579403117568,1
+"53",53,"Control",61.0837127879916,"Male",0,"Asia excluding Japan","presence","<400","1","Hepatitis B",0,0,5,0
+"54",54,"Treatment",60.4831671009551,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis C",1,0,0.00476678855268659,1
+"55",55,"Control",68.0332305463615,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",0,0,1.1411689282205,1
+"56",56,"Treatment",63.4840753631784,"Male",0,"rest of the world","presence","<400","1","Nonviral",1,0,1.11248057333024,1
+"57",57,"Treatment",56.3084245687618,"Male",0,"rest of the world","presence","≥400","0","Nonviral",1,0,1.05614997669066,0
+"58",58,"Control",58.1582364788289,"Male",0,"Asia excluding Japan","absence","≥400","0","Hepatitis B",0,0,0.540271553145331,1
+"59",59,"Control",54.0675380019104,"Male",0,"rest of the world","absence","≥400","0","Nonviral",0,0,1.73359159229381,1
+"60",60,"Control",53.9188159118091,"Female",0,"Asia excluding Japan","presence","≥400","0","Nonviral",0,1,4.62557286044593,1
+"61",61,"Control",59.0777991505611,"Female",0,"rest of the world","presence","≥400","0","Hepatitis B",0,1,2.10687220936208,1
+"62",62,"Control",58.7154256821524,"Male",0,"rest of the world","absence","≥400","1","Hepatitis B",0,0,0.0925274565675007,1
+"63",63,"Treatment",57.9178862431499,"Male",0,"rest of the world","presence","<400","0","Nonviral",1,0,0.937259460740268,1
+"64",64,"Treatment",58.6411283267284,"Male",0,"rest of the world","absence","<400","1","Hepatitis C",1,0,1.76116342605649,1
+"65",65,"Treatment",63.5459670852302,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",1,0,1.48422132425021,1
+"66",66,"Treatment",55.235298826386,"Female",0,"rest of the world","presence","≥400","1","Hepatitis C",1,1,0.204617247320474,1
+"67",67,"Treatment",68.2376265365292,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,0,0.807623224573939,1
+"68",68,"Control",51.2383053693273,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",0,0,0.474616260456887,1
+"69",69,"Treatment",59.5420168118579,"Male",0,"rest of the world","presence","≥400","0","Nonviral",1,0,5,0
+"70",70,"Control",60.4313352593101,"Female",0,"rest of the world","presence","≥400","1","Hepatitis C",0,1,1.78945206645557,0
+"71",71,"Control",57.3343685630672,"Male",0,"Asia excluding Japan","absence","≥400","0","Hepatitis B",0,0,5,0
+"72",72,"Control",71.4002801804983,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",0,0,4.52865878347999,1
+"73",73,"Treatment",60.2774994414438,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",1,0,1.80351052682314,1
+"74",74,"Control",68.107252180831,"Female",0,"rest of the world","presence","≥400","0","Hepatitis B",0,1,0.387308492135625,1
+"75",75,"Treatment",60.996884682555,"Male",0,"rest of the world","presence","≥400","0","Nonviral",1,0,0.486141976327104,1
+"76",76,"Treatment",57.5829527177578,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",1,0,0.391441072254758,1
+"77",77,"Treatment",57.5064659231721,"Male",0,"Asia excluding Japan","presence","≥400","0","Nonviral",1,0,0.442062795923435,1
+"78",78,"Control",57.9493046000967,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",0,0,0.870481689923496,1
+"79",79,"Treatment",63.9310237783729,"Male",0,"rest of the world","absence","≥400","0","Hepatitis B",1,0,1.12433622740787,1
+"80",80,"Treatment",56.0470731945827,"Female",0,"Asia excluding Japan","presence","<400","0","Nonviral",1,1,3.72634695551297,1
+"81",81,"Control",60.0558928128867,"Male",0,"Asia excluding Japan","absence","<400","1","Nonviral",0,0,5,0
+"82",82,"Treatment",60.7295106289032,"Male",0,"rest of the world","absence","≥400","0","Hepatitis B",1,0,0.0195477319693942,1
+"83",83,"Treatment",57.6262455455536,"Male",0,"rest of the world","presence","≥400","0","Nonviral",1,0,1.04914833130637,1
+"84",84,"Control",57.926374715898,"Female",0,"rest of the world","absence","≥400","1","Hepatitis C",0,1,2.10280085419547,1
+"85",85,"Treatment",64.5751213692514,"Male",0,"rest of the world","absence","≥400","1","Hepatitis B",1,0,0.784261363030165,1
+"86",86,"Control",62.0251825992488,"Male",0,"rest of the world","absence","<400","1","Nonviral",0,0,0.310578302286445,1
+"87",87,"Treatment",53.2308724544781,"Male",0,"Asia excluding Japan","presence","≥400","1","Nonviral",1,0,0.793629036295399,1
+"88",88,"Treatment",63.695958384969,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",1,0,0.493389137287351,1
+"89",89,"Treatment",63.1738542739377,"Male",0,"rest of the world","presence","<400","0","Nonviral",1,0,0.413034654988366,1
+"90",90,"Control",54.1057370617013,"Male",0,"rest of the world","absence","<400","0","Hepatitis B",0,0,5,0
+"91",91,"Control",53.9731764967977,"Female",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",0,1,5,0
+"92",92,"Control",56.5644335513665,"Female",0,"Asia excluding Japan","presence","≥400","1","Hepatitis C",0,1,5,0
+"93",93,"Treatment",54.1769319587782,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",1,0,1.35099926056269,1
+"94",94,"Control",64.1702849872488,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",0,0,1.24205071926963,1
+"95",95,"Control",64.8581373117168,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",0,0,5,0
+"96",96,"Control",51.1434172807199,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis C",0,0,2.89433918391467,1
+"97",97,"Treatment",63.3100732663678,"Male",0,"Asia excluding Japan","presence","<400","0","Nonviral",1,0,0.915049867878122,1
+"98",98,"Control",60.8993715705076,"Male",0,"rest of the world","absence","≥400","1","Hepatitis B",0,0,5,0
+"99",99,"Control",55.8569466410509,"Male",0,"Asia excluding Japan","presence","<400","0","Nonviral",0,0,3.18384435354389,1
+"100",100,"Treatment",56.5155277316097,"Male",0,"Asia excluding Japan","absence","≥400","1","Hepatitis B",1,0,1.78365218744879,1
+"101",101,"Control",55.5882062788687,"Male",0,"rest of the world","presence","≥400","0","Nonviral",0,0,5,0
+"102",102,"Control",62.6201148285522,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",0,0,2.22302731885571,1
+"103",103,"Treatment",67.9531537596701,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",1,0,0.400345333510276,1
+"104",104,"Control",59.1884071709221,"Male",0,"Asia excluding Japan","presence","<400","1","Hepatitis C",0,0,1.69118951099893,0
+"105",105,"Control",60.4684279206423,"Male",0,"rest of the world","presence","<400","1","Nonviral",0,0,5,0
+"106",106,"Control",59.8718239125032,"Female",0,"rest of the world","absence","≥400","0","Nonviral",0,1,1.99598362542013,1
+"107",107,"Treatment",56.7797384160498,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,0,3.42611491902394,1
+"108",108,"Control",62.5384764877901,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",0,0,4.57502040887752,1
+"109",109,"Treatment",51.8609479207452,"Female",0,"rest of the world","absence","<400","0","Hepatitis B",1,1,0.623896346564383,0
+"110",110,"Treatment",64.9549853036672,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",1,0,0.0600517004420934,1
+"111",111,"Control",62.4272623592285,"Male",0,"rest of the world","presence","≥400","0","Nonviral",0,0,1.20655932066543,1
+"112",112,"Treatment",66.865380541281,"Male",0,"Asia excluding Japan","absence","≥400","0","Hepatitis B",1,0,0.533890661013074,1
+"113",113,"Treatment",62.691755063633,"Male",0,"rest of the world","presence","<400","0","Hepatitis C",1,0,0.970723463770652,1
+"114",114,"Control",63.1680052260812,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",0,0,0.31937263437738,1
+"115",115,"Control",62.0978102062218,"Male",0,"Asia excluding Japan","presence","≥400","0","Nonviral",0,0,3.61262176599691,1
+"116",116,"Control",56.9990061622845,"Male",0,"rest of the world","absence","<400","1","Hepatitis B",0,0,5,0
+"117",117,"Control",57.6637762595304,"Male",0,"rest of the world","presence","<400","1","Hepatitis B",0,0,5,0
+"118",118,"Treatment",67.7043691834644,"Male",0,"rest of the world","absence","<400","0","Nonviral",1,0,0.432213923119563,1
+"119",119,"Control",63.0713809397484,"Male",0,"rest of the world","presence","≥400","0","Nonviral",0,0,5,0
+"120",120,"Control",58.2915973808007,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",0,0,5,0
+"121",121,"Control",60.5561036288327,"Male",0,"rest of the world","absence","<400","1","Hepatitis B",0,0,0.645652490966961,1
+"122",122,"Control",68.7918583865798,"Male",0,"rest of the world","presence","<400","0","Nonviral",0,0,2.24374019380696,1
+"123",123,"Treatment",55.7320776506223,"Male",0,"rest of the world","absence","<400","0","Hepatitis B",1,0,0.210153293070181,0
+"124",124,"Treatment",53.1949217561002,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",1,0,2.41372678016325,1
+"125",125,"Treatment",59.7473480893011,"Male",0,"rest of the world","absence","≥400","0","Hepatitis B",1,0,5,0
+"126",126,"Treatment",62.3930021982177,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",1,0,0.563294268003177,1
+"127",127,"Treatment",62.1628283868478,"Male",0,"Asia excluding Japan","absence","≥400","0","Nonviral",1,0,1.3312362049572,1
+"128",128,"Control",68.5552075940486,"Male",0,"Asia excluding Japan","presence","<400","1","Hepatitis B",0,0,1.08867032827505,1
+"129",129,"Treatment",59.3942575722786,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,0,2.59518903932741,1
+"130",130,"Control",63.6524151843574,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",0,0,2.55283581092954,0
+"131",131,"Treatment",64.8033392210315,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",1,0,1.12507654753844,1
+"132",132,"Control",61.5158930173671,"Male",0,"rest of the world","presence","≥400","1","Hepatitis C",0,0,5,0
+"133",133,"Treatment",56.4936181911657,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",1,0,2.16526235632543,1
+"134",134,"Treatment",62.3336009361695,"Male",0,"rest of the world","absence","≥400","1","Hepatitis B",1,0,0.883672391470947,1
+"135",135,"Control",60.0814525504667,"Female",0,"rest of the world","presence","<400","1","Hepatitis B",0,1,5,0
+"136",136,"Control",57.7281130225391,"Male",0,"rest of the world","presence","≥400","0","Nonviral",0,0,5,0
+"137",137,"Control",50.8391297854788,"Male",0,"rest of the world","presence","<400","1","Hepatitis B",0,0,5,0
+"138",138,"Control",57.5037350680153,"Male",0,"rest of the world","presence","≥400","0","Nonviral",0,0,5,0
+"139",139,"Treatment",55.3586136784522,"Male",0,"rest of the world","presence","<400","0","Hepatitis B",1,0,3.67788104812447,1
+"140",140,"Control",61.2515808754674,"Male",0,"Asia excluding Japan","presence","<400","1","Hepatitis B",0,0,3.67628888505491,1
+"141",141,"Control",60.392663876973,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",0,0,5,0
+"142",142,"Control",63.1262304199409,"Male",0,"Asia excluding Japan","absence","≥400","0","Hepatitis B",0,0,1.33678431081012,1
+"143",143,"Control",56.9834337641064,"Male",0,"rest of the world","presence","<400","1","Hepatitis B",0,0,5,0
+"144",144,"Treatment",56.5484382983617,"Male",0,"Asia excluding Japan","absence","≥400","0","Hepatitis B",1,0,2.55787654807482,1
+"145",145,"Control",56.0756744466579,"Male",0,"rest of the world","absence","≥400","1","Hepatitis B",0,0,5,0
+"146",146,"Control",48.8502474908584,"Female",0,"Asia excluding Japan","absence","≥400","1","Nonviral",0,1,5,0
+"147",147,"Treatment",64.9421977762908,"Male",0,"Asia excluding Japan","presence","<400","1","Hepatitis B",1,0,0.606620098051713,1
+"148",148,"Control",61.3093274821867,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",0,0,2.8579119382566,1
+"149",149,"Control",61.8843939053377,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",0,0,2.30495537217088,1
+"150",150,"Treatment",58.0415561321124,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",1,0,0.781114943200853,1
+"151",151,"Control",57.8583511064762,"Male",0,"Asia excluding Japan","presence","≥400","0","Nonviral",0,0,1.49625023112636,1
+"152",152,"Treatment",64.1452758696297,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,0,0.996138069414053,1
+"153",153,"Control",65.5332194754027,"Male",0,"rest of the world","presence","<400","0","Hepatitis C",0,0,1.06623550783121,1
+"154",154,"Treatment",58.5335725313224,"Male",0,"rest of the world","absence","<400","1","Hepatitis B",1,0,3.82587691865519,1
+"155",155,"Control",66.5650579310384,"Male",0,"Asia excluding Japan","presence","≥400","0","Nonviral",0,0,1.15109633026972,1
+"156",156,"Treatment",67.1472666289932,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",1,0,1.34671715541607,1
+"157",157,"Treatment",68.5866465175407,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis C",1,0,0.366781259699501,1
+"158",158,"Control",62.5038405429022,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",0,0,1.60475283162668,0
+"159",159,"Treatment",65.2946841619393,"Male",0,"rest of the world","presence","≥400","1","Nonviral",1,0,0.0959895443801947,1
+"160",160,"Control",63.5169398150871,"Male",0,"rest of the world","absence","<400","0","Hepatitis C",0,0,5,0
+"161",161,"Control",65.8928055910264,"Female",0,"rest of the world","absence","<400","1","Nonviral",0,1,5,0
+"162",162,"Control",59.0833743512022,"Male",0,"rest of the world","absence","≥400","0","Hepatitis B",0,0,1.63013160420802,1
+"163",163,"Treatment",66.0610742246197,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",1,0,2.03554807006009,1
+"164",164,"Treatment",61.3878610019639,"Male",0,"rest of the world","absence","≥400","1","Hepatitis B",1,0,3.72239400846263,1
+"165",165,"Control",63.5995242339538,"Male",0,"rest of the world","presence","<400","1","Nonviral",0,0,0.401635129619335,1
+"166",166,"Control",59.1684018922518,"Male",0,"rest of the world","presence","≥400","1","Hepatitis C",0,0,5,0
+"167",167,"Treatment",50.5234949175691,"Female",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,1,5,0
+"168",168,"Control",57.9515196124219,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",0,0,3.62638141274564,1
+"169",169,"Control",64.1215269934883,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",0,0,0.912824518790023,1
+"170",170,"Treatment",61.8491576653362,"Male",0,"rest of the world","presence","≥400","0","Nonviral",1,0,1.55672308237432,1
+"171",171,"Treatment",54.3036313538322,"Male",0,"Asia excluding Japan","presence","≥400","0","Nonviral",1,0,2.41656581881615,0
+"172",172,"Control",65.7904568542735,"Male",0,"rest of the world","absence","<400","0","Hepatitis B",0,0,4.75266149426472,1
+"173",173,"Treatment",54.8915925589168,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis C",1,0,0.413825013304983,1
+"174",174,"Control",61.2332269235465,"Female",0,"rest of the world","presence","<400","1","Hepatitis B",0,1,1.68454379125969,1
+"175",175,"Treatment",61.4582779373274,"Male",0,"rest of the world","presence","<400","0","Nonviral",1,0,1.58812804175761,1
+"176",176,"Control",52.5585767780254,"Female",0,"rest of the world","presence","≥400","0","Hepatitis B",0,1,5,0
+"177",177,"Control",60.1369080181603,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",0,0,0.798416137911749,1
+"178",178,"Control",63.7203504885362,"Male",0,"rest of the world","absence","≥400","0","Hepatitis B",0,0,2.81709400848361,1
+"179",179,"Control",52.6668744475315,"Male",0,"rest of the world","absence","<400","0","Nonviral",0,0,3.69780506639453,1
+"180",180,"Control",66.3894717860262,"Male",0,"Asia excluding Japan","absence","<400","0","Hepatitis C",0,0,5,0
+"181",181,"Treatment",63.465986016464,"Male",0,"rest of the world","absence","<400","0","Hepatitis C",1,0,0.646095213188499,1
+"182",182,"Control",55.2581513589101,"Male",0,"rest of the world","absence","≥400","0","Nonviral",0,0,3.69859863649352,1
+"183",183,"Treatment",64.5166695682605,"Male",0,"rest of the world","absence","≥400","1","Hepatitis B",1,0,1.13704367140401,1
+"184",184,"Treatment",60.2592736195464,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",1,0,0.0944172132175587,1
+"185",185,"Treatment",66.7607820229831,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis C",1,0,2.35152061663649,1
+"186",186,"Treatment",66.7443397269942,"Female",0,"Asia excluding Japan","absence","≥400","1","Hepatitis B",1,1,0.132668156736251,1
+"187",187,"Control",58.2302563296116,"Male",0,"rest of the world","presence","<400","0","Hepatitis B",0,0,3.08625413023077,1
+"188",188,"Treatment",63.4194236808759,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",1,0,1.52839022550948,1
+"189",189,"Control",65.360910003522,"Male",0,"rest of the world","absence","<400","0","Hepatitis C",0,0,1.13996678824255,0
+"190",190,"Control",62.8629890749115,"Female",0,"rest of the world","presence","≥400","0","Hepatitis C",0,1,4.62612462477358,1
+"191",191,"Control",56.2354563479861,"Male",0,"rest of the world","absence","≥400","0","Hepatitis B",0,0,0.079084998443303,1
+"192",192,"Control",53.1167102337483,"Male",0,"rest of the world","presence","<400","1","Hepatitis C",0,0,5,0
+"193",193,"Treatment",60.7415830851183,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",1,0,3.70482612708725,1
+"194",194,"Treatment",52.8193422912117,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",1,0,0.219585408463494,1
+"195",195,"Control",57.4130969299971,"Male",0,"rest of the world","presence","≥400","1","Hepatitis C",0,0,3.38713430118802,1
+"196",196,"Treatment",51.5328718626145,"Female",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,1,0.076142251859806,1
+"197",197,"Treatment",65.5325663559364,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",1,0,0.48537765010482,1
+"198",198,"Control",59.5178907983429,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",0,0,1.94172675793305,1
+"199",199,"Treatment",51.5690546490631,"Male",0,"rest of the world","absence","<400","1","Nonviral",1,0,0.296265947119882,1
+"200",200,"Control",59.2990637787847,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",0,0,3.83829525152101,1
+"201",201,"Control",54.2080219234001,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",0,0,0.611926287962788,1
+"202",202,"Treatment",58.0254029301313,"Male",0,"rest of the world","presence","≥400","1","Nonviral",1,0,2.30694283389317,1
+"203",203,"Control",59.9369867465071,"Male",0,"rest of the world","presence","<400","0","Hepatitis B",0,0,5,0
+"204",204,"Control",59.3243563631512,"Male",0,"rest of the world","absence","≥400","0","Hepatitis B",0,0,4.01515133855522,1
+"205",205,"Control",57.9777173008959,"Male",0,"rest of the world","presence","≥400","0","Nonviral",0,0,5,0
+"206",206,"Treatment",53.743223230808,"Male",0,"Asia excluding Japan","absence","≥400","1","Hepatitis B",1,0,0.511910271348959,1
+"207",207,"Treatment",60.4105772426203,"Female",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",1,1,0.501798661534214,1
+"208",208,"Control",58.2311033420551,"Female",0,"Asia excluding Japan","absence","≥400","0","Hepatitis C",0,1,5,0
+"209",209,"Treatment",59.797971097631,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",1,0,3.08830648918515,1
+"210",210,"Control",55.8318361917528,"Male",0,"Asia excluding Japan","presence","<400","1","Nonviral",0,0,5,0
+"211",211,"Treatment",57.7582730850224,"Male",0,"rest of the world","presence","<400","1","Hepatitis B",1,0,1.58276258210344,1
+"212",212,"Treatment",67.3332789852761,"Male",0,"rest of the world","presence","<400","0","Nonviral",1,0,1.92723324118047,1
+"213",213,"Treatment",63.6585592823493,"Male",0,"rest of the world","presence","≥400","0","Nonviral",1,0,0.161705907631342,1
+"214",214,"Treatment",59.3055085079092,"Female",0,"rest of the world","presence","≥400","0","Hepatitis C",1,1,0.976410258267128,1
+"215",215,"Treatment",51.9680729102462,"Male",0,"Asia excluding Japan","presence","≥400","1","Nonviral",1,0,4.42797717058458,1
+"216",216,"Control",60.8939901394356,"Male",0,"rest of the world","absence","≥400","1","Nonviral",0,0,0.463715144106588,1
+"217",217,"Control",62.0361299768192,"Female",0,"rest of the world","absence","≥400","1","Hepatitis B",0,1,2.36971554261932,1
+"218",218,"Control",55.6666074851426,"Female",0,"rest of the world","presence","≥400","1","Hepatitis B",0,1,0.706323222789088,1
+"219",219,"Treatment",62.9332909269557,"Male",0,"rest of the world","presence","≥400","0","Nonviral",1,0,0.145546025827732,1
+"220",220,"Control",59.1220063329401,"Male",0,"Asia excluding Japan","presence","<400","0","Nonviral",0,0,5,0
+"221",221,"Treatment",62.990883678176,"Female",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,1,0.0426788114685745,1
+"222",222,"Treatment",58.0726439450587,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",1,0,0.324248756211488,1
+"223",223,"Treatment",59.9503101102077,"Male",0,"Asia excluding Japan","presence","<400","1","Hepatitis B",1,0,0.746335201441836,1
+"224",224,"Control",52.2807635787667,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",0,0,5,0
+"225",225,"Control",57.5843491864245,"Female",0,"rest of the world","presence","<400","0","Nonviral",0,1,5,0
+"226",226,"Control",62.3114115543315,"Female",0,"Asia excluding Japan","presence","<400","0","Nonviral",0,1,4.41526481339749,1
+"227",227,"Control",58.4787534551166,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",0,0,2.68850414046597,1
+"228",228,"Treatment",58.090881923217,"Male",0,"Asia excluding Japan","presence","≥400","0","Nonviral",1,0,0.184997271615939,1
+"229",229,"Treatment",60.4680650179236,"Male",0,"rest of the world","absence","<400","1","Nonviral",1,0,1.49072522506237,1
+"230",230,"Control",58.6146460981457,"Male",0,"rest of the world","presence","<400","0","Nonviral",0,0,5,0
+"231",231,"Control",63.5313686799482,"Male",0,"rest of the world","absence","≥400","1","Nonviral",0,0,0.69786867511528,1
+"232",232,"Treatment",61.2522773667916,"Male",0,"rest of the world","absence","≥400","1","Hepatitis C",1,0,1.07340819139427,1
+"233",233,"Treatment",67.0965669151956,"Male",0,"rest of the world","presence","<400","0","Hepatitis B",1,0,0.530290639805539,1
+"234",234,"Treatment",49.2876408835433,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",1,0,0.507274835604469,1
+"235",235,"Treatment",53.5156139449183,"Male",0,"Asia excluding Japan","absence","≥400","0","Hepatitis B",1,0,3.66137581440392,0
+"236",236,"Control",63.1451551155601,"Male",0,"Asia excluding Japan","presence","≥400","1","Nonviral",0,0,5,0
+"237",237,"Treatment",59.2781742484821,"Female",0,"Asia excluding Japan","presence","≥400","0","Hepatitis C",1,1,0.0601350645680997,1
+"238",238,"Treatment",59.8831273474487,"Male",0,"rest of the world","presence","<400","0","Hepatitis B",1,0,0.236026001017925,1
+"239",239,"Treatment",58.4510176172753,"Male",0,"Asia excluding Japan","presence","≥400","0","Nonviral",1,0,0.406978084234201,1
+"240",240,"Treatment",56.2655295705129,"Female",0,"rest of the world","presence","<400","0","Hepatitis C",1,1,0.584084411132556,1
+"241",241,"Control",57.5099821584559,"Male",0,"rest of the world","absence","≥400","0","Hepatitis C",0,0,2.65409619521583,1
+"242",242,"Control",58.6230184804341,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",0,0,3.97122187796992,1
+"243",243,"Control",64.0394190446358,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",0,0,2.00112911563793,1
+"244",244,"Control",66.9460406282402,"Female",0,"rest of the world","presence","≥400","0","Hepatitis B",0,1,5,0
+"245",245,"Treatment",59.7235221667147,"Male",0,"rest of the world","presence","≥400","0","Nonviral",1,0,3.06716041607938,1
+"246",246,"Control",59.3463438647428,"Male",0,"rest of the world","absence","≥400","0","Hepatitis B",0,0,5,0
+"247",247,"Treatment",63.7614284586855,"Male",0,"Asia excluding Japan","presence","≥400","1","Nonviral",1,0,1.99576841797747,1
+"248",248,"Control",69.4556027101943,"Male",0,"rest of the world","presence","≥400","0","Nonviral",0,0,0.748245343985702,1
+"249",249,"Control",64.267804875483,"Male",0,"rest of the world","presence","<400","1","Nonviral",0,0,4.39826426964789,1
+"250",250,"Control",58.299938954884,"Male",0,"rest of the world","presence","<400","0","Nonviral",0,0,5,0
+"251",251,"Control",53.1943003762448,"Male",0,"rest of the world","presence","<400","1","Hepatitis C",0,0,0.0687706328466331,1
+"252",252,"Treatment",60.6131521697981,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",1,0,0.166883790269755,1
+"253",253,"Control",66.5357121203272,"Male",0,"Asia excluding Japan","presence","≥400","1","Nonviral",0,0,4.56930472718192,1
+"254",254,"Treatment",55.9095497208978,"Female",0,"rest of the world","presence","≥400","1","Nonviral",1,1,1.91652390486375,1
+"255",255,"Control",49.5521856413422,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis C",0,0,1.50590528734028,0
+"256",256,"Control",61.7457848936373,"Male",0,"rest of the world","absence","<400","0","Hepatitis B",0,0,3.2681157628488,1
+"257",257,"Control",55.2573145942428,"Male",0,"rest of the world","absence","<400","1","Nonviral",0,0,1.91475270552965,1
+"258",258,"Control",56.5746559009603,"Female",0,"rest of the world","absence","<400","0","Hepatitis C",0,1,5,0
+"259",259,"Control",60.6387030938028,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",0,0,0.689757432879153,1
+"260",260,"Treatment",64.2468977364441,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",1,0,0.0206512826289775,1
+"261",261,"Treatment",58.8502949735184,"Male",0,"rest of the world","presence","<400","1","Nonviral",1,0,1.82770205235226,1
+"262",262,"Treatment",64.9584988037735,"Male",0,"Asia excluding Japan","presence","≥400","0","Nonviral",1,0,0.39643210824579,0
+"263",263,"Control",63.5343099392671,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",0,0,0.654880584001745,1
+"264",264,"Treatment",55.9140774915346,"Male",0,"Asia excluding Japan","absence","≥400","1","Hepatitis C",1,0,2.78242412172041,1
+"265",265,"Treatment",65.614731943224,"Male",0,"rest of the world","presence","<400","0","Hepatitis C",1,0,0.372975292461481,1
+"266",266,"Control",58.4885020476167,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",0,0,2.86526541473809,1
+"267",267,"Control",50.3157486526398,"Male",0,"Asia excluding Japan","absence","<400","0","Hepatitis B",0,0,1.87483025982006,1
+"268",268,"Treatment",52.123697702294,"Male",0,"rest of the world","presence","<400","0","Hepatitis B",1,0,1.47013997995176,1
+"269",269,"Treatment",50.2093382387919,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",1,0,0.522620814917192,1
+"270",270,"Treatment",59.0594177382755,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",1,0,0.0644494229179971,1
+"271",271,"Treatment",65.6312809076099,"Male",0,"Asia excluding Japan","absence","<400","1","Hepatitis B",1,0,0.269832320881764,1
+"272",272,"Control",63.2651719783716,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",0,0,0.997803850624895,1
+"273",273,"Treatment",55.7140965180772,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,0,2.09582088712977,1
+"274",274,"Treatment",64.8347183503998,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",1,0,0.0694246032066743,1
+"275",275,"Control",59.5412862713474,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis C",0,0,0.428926025966944,1
+"276",276,"Control",50.3534142914054,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",0,0,2.45437535726044,1
+"277",277,"Treatment",66.4070315659917,"Male",0,"rest of the world","absence","<400","0","Nonviral",1,0,0.254039706196636,0
+"278",278,"Control",58.5648502317656,"Female",0,"rest of the world","presence","<400","0","Hepatitis B",0,1,4.18665617739705,1
+"279",279,"Treatment",58.0444377805013,"Male",0,"Asia excluding Japan","absence","<400","1","Nonviral",1,0,0.755209759646041,1
+"280",280,"Treatment",55.0437196421792,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,0,0.945415217039747,1
+"281",281,"Control",65.1969506325494,"Female",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",0,1,5,0
+"282",282,"Control",65.2592828725188,"Male",0,"rest of the world","presence","≥400","1","Hepatitis C",0,0,3.96580000655119,1
+"283",283,"Control",61.082889607436,"Female",0,"rest of the world","presence","≥400","1","Nonviral",0,1,5,0
+"284",284,"Control",56.8688501982851,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",0,0,2.30522090022041,1
+"285",285,"Control",56.1462608358016,"Male",0,"rest of the world","presence","<400","0","Hepatitis C",0,0,0.159484345601566,1
+"286",286,"Control",61.0283373718387,"Male",0,"Asia excluding Japan","absence","≥400","0","Hepatitis B",0,0,2.48780021245314,1
+"287",287,"Treatment",60.2588296355739,"Male",0,"rest of the world","presence","<400","0","Hepatitis B",1,0,1.55367194495595,1
+"288",288,"Control",59.7652109018328,"Female",0,"rest of the world","presence","<400","0","Hepatitis C",0,1,2.87229778410974,1
+"289",289,"Treatment",54.8809543783697,"Male",0,"rest of the world","presence","≥400","1","Hepatitis C",1,0,1.72412961278378,1
+"290",290,"Treatment",57.1172531250621,"Female",0,"rest of the world","presence","≥400","0","Nonviral",1,1,0.613010746625151,1
+"291",291,"Treatment",60.8784862935266,"Female",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",1,1,0.378083875095748,1
+"292",292,"Control",66.3533797037005,"Female",0,"rest of the world","presence","≥400","0","Hepatitis B",0,1,1.52170408942694,1
+"293",293,"Treatment",62.992443079134,"Male",0,"Asia excluding Japan","absence","≥400","0","Hepatitis C",1,0,0.0433712663301362,1
+"294",294,"Treatment",54.9641076997657,"Male",0,"rest of the world","presence","≥400","1","Hepatitis C",1,0,2.24079609408997,1
+"295",295,"Treatment",63.730586085409,"Male",0,"rest of the world","presence","≥400","1","Hepatitis C",1,0,0.76877000878618,1
+"296",296,"Control",67.8921119010245,"Male",0,"rest of the world","absence","≥400","1","Hepatitis B",0,0,2.21834160894025,1
+"297",297,"Treatment",61.8209004933383,"Male",0,"rest of the world","absence","<400","1","Hepatitis B",1,0,1.438940512901,1
+"298",298,"Treatment",62.0690785253339,"Female",0,"Asia excluding Japan","absence","≥400","1","Hepatitis C",1,1,0.506217193109872,1
+"299",299,"Treatment",59.8294103346036,"Male",0,"rest of the world","presence","<400","1","Hepatitis B",1,0,0.413556560421609,1
+"300",300,"Control",64.3177074833374,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",0,0,5,0
+"301",301,"Treatment",60.8079724526106,"Male",0,"Asia excluding Japan","presence","≥400","0","Nonviral",1,0,0.0716716982548685,1
+"302",302,"Control",59.148106569111,"Female",0,"rest of the world","absence","≥400","0","Hepatitis C",0,1,1.03792794144799,1
+"303",303,"Control",66.2287756361157,"Male",0,"rest of the world","presence","≥400","0","Nonviral",0,0,0.671726603204959,1
+"304",304,"Treatment",66.4474500760185,"Female",0,"Asia excluding Japan","absence","<400","1","Hepatitis C",1,1,0.462647735550132,1
+"305",305,"Treatment",59.3518582542712,"Male",0,"rest of the world","absence","<400","0","Nonviral",1,0,3.80373759322618,1
+"306",306,"Treatment",61.3582740215012,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",1,0,0.338852645196274,1
+"307",307,"Control",59.362899381967,"Male",0,"rest of the world","absence","<400","0","Hepatitis C",0,0,4.41302920623854,1
+"308",308,"Control",58.884537389972,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",0,0,2.08754866322253,0
+"309",309,"Control",63.5426014452858,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",0,0,1.48281505348791,1
+"310",310,"Control",59.9180818347521,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",0,0,5,0
+"311",311,"Control",64.7907221960532,"Male",0,"rest of the world","presence","<400","1","Nonviral",0,0,3.026838631285,1
+"312",312,"Treatment",62.2505491725595,"Male",0,"Asia excluding Japan","absence","≥400","0","Hepatitis B",1,0,0.674752826041349,1
+"313",313,"Control",64.821360324543,"Male",0,"rest of the world","presence","<400","0","Hepatitis B",0,0,2.38039360027182,1
+"314",314,"Treatment",65.0030586805336,"Male",0,"rest of the world","presence","<400","1","Nonviral",1,0,2.43398684639151,1
+"315",315,"Control",60.5577267206657,"Male",0,"rest of the world","presence","≥400","0","Nonviral",0,0,0.331659777369384,1
+"316",316,"Treatment",57.5332067584979,"Male",0,"rest of the world","presence","<400","0","Hepatitis B",1,0,0.790858143341761,0
+"317",317,"Control",51.8662324128861,"Male",0,"rest of the world","absence","≥400","0","Hepatitis B",0,0,3.46111983366396,1
+"318",318,"Control",57.1177282229549,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",0,0,5,0
+"319",319,"Treatment",67.0044002977079,"Male",0,"rest of the world","presence","<400","0","Hepatitis B",1,0,1.56721433676858,1
+"320",320,"Treatment",56.5243793265705,"Female",0,"Asia excluding Japan","absence","<400","0","Hepatitis C",1,1,0.99081204532006,1
+"321",321,"Control",55.4410730041261,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",0,0,5,0
+"322",322,"Treatment",60.2164114639183,"Female",0,"Asia excluding Japan","presence","<400","1","Hepatitis B",1,1,0.706045326925178,1
+"323",323,"Treatment",58.6000776658938,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,0,1.14205975965202,0
+"324",324,"Treatment",70.382160947446,"Male",0,"rest of the world","presence","<400","1","Hepatitis B",1,0,0.0329251661077836,1
+"325",325,"Treatment",58.9696998594766,"Male",0,"Asia excluding Japan","absence","<400","1","Hepatitis B",1,0,3.20366667470093,1
+"326",326,"Treatment",54.0796784809482,"Male",0,"rest of the world","presence","≥400","1","Nonviral",1,0,1.23403598256807,0
+"327",327,"Treatment",55.5154668658484,"Female",0,"rest of the world","presence","≥400","0","Nonviral",1,1,0.707929549971595,0
+"328",328,"Control",53.5829141673993,"Female",0,"rest of the world","presence","≥400","1","Hepatitis B",0,1,3.64396698273385,1
+"329",329,"Treatment",61.7670910849841,"Male",0,"rest of the world","presence","≥400","1","Hepatitis C",1,0,0.567386759503807,1
+"330",330,"Control",59.8409332015372,"Male",0,"rest of the world","absence","≥400","0","Hepatitis C",0,0,3.50916372368917,1
+"331",331,"Treatment",48.5231697651146,"Male",0,"Asia excluding Japan","presence","<400","1","Hepatitis B",1,0,5,0
+"332",332,"Control",62.3023607111289,"Male",0,"Asia excluding Japan","absence","≥400","0","Nonviral",0,0,0.126668062905445,1
+"333",333,"Treatment",54.8885093218902,"Male",0,"rest of the world","presence","<400","1","Hepatitis C",1,0,0.286938615637836,1
+"334",334,"Treatment",55.1779372841594,"Female",0,"Asia excluding Japan","absence","<400","0","Hepatitis B",1,1,0.484537738253869,1
+"335",335,"Control",52.9729416749277,"Male",0,"rest of the world","presence","≥400","1","Hepatitis C",0,0,5,0
+"336",336,"Treatment",65.9272461739844,"Female",0,"Asia excluding Japan","presence","≥400","0","Nonviral",1,1,0.976345496792715,1
+"337",337,"Control",53.6015901658277,"Male",0,"Asia excluding Japan","absence","≥400","0","Hepatitis B",0,0,5,0
+"338",338,"Control",50.9200195464544,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",0,0,2.66941066102702,1
+"339",339,"Treatment",55.5812191408919,"Male",0,"Asia excluding Japan","presence","≥400","1","Nonviral",1,0,1.24918970100466,1
+"340",340,"Control",56.9954076260439,"Female",0,"rest of the world","absence","<400","0","Hepatitis C",0,1,2.48927843181124,1
+"341",341,"Control",64.5563545686885,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",0,0,5,0
+"342",342,"Control",61.1743229195653,"Male",0,"Asia excluding Japan","presence","<400","0","Nonviral",0,0,5,0
+"343",343,"Treatment",51.7822904878445,"Female",0,"Asia excluding Japan","absence","≥400","0","Hepatitis C",1,1,0.919765197061116,1
+"344",344,"Treatment",57.8606180697632,"Male",0,"Asia excluding Japan","absence","≥400","0","Hepatitis C",1,0,1.39993753749877,0
+"345",345,"Control",66.1603991748065,"Female",0,"Asia excluding Japan","presence","<400","0","Hepatitis C",0,1,5,0
+"346",346,"Treatment",57.7112592722329,"Female",0,"rest of the world","absence","≥400","0","Hepatitis B",1,1,0.946575645321635,1
+"347",347,"Control",59.655391006065,"Male",0,"rest of the world","presence","≥400","0","Nonviral",0,0,1.94847772704655,1
+"348",348,"Control",66.6610070602239,"Male",0,"Asia excluding Japan","absence","<400","0","Hepatitis C",0,0,3.57119244245072,1
+"349",349,"Treatment",62.9166585433271,"Male",0,"Asia excluding Japan","presence","≥400","1","Nonviral",1,0,1.86674382638545,1
+"350",350,"Treatment",48.2893145351581,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,0,1.16320688469562,1
+"351",351,"Control",58.5789631863337,"Male",0,"rest of the world","presence","<400","1","Hepatitis B",0,0,3.2056381361861,1
+"352",352,"Treatment",51.8958646760058,"Male",0,"Asia excluding Japan","presence","<400","1","Hepatitis C",1,0,5,0
+"353",353,"Control",59.0095814953122,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",0,0,1.13271053856112,1
+"354",354,"Treatment",72.6980215881471,"Female",0,"rest of the world","presence","≥400","1","Nonviral",1,1,0.285308073229623,1
+"355",355,"Treatment",67.478693558921,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",1,0,0.394573065645305,1
+"356",356,"Treatment",63.3342085084543,"Male",0,"Asia excluding Japan","absence","≥400","1","Nonviral",1,0,1.13212252531717,1
+"357",357,"Control",57.5190604627867,"Male",0,"rest of the world","presence","<400","0","Hepatitis C",0,0,5,0
+"358",358,"Treatment",58.5634542188955,"Male",0,"rest of the world","absence","≥400","0","Hepatitis B",1,0,1.6804172077387,1
+"359",359,"Treatment",59.2514363207974,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis C",1,0,0.973265886192729,1
+"360",360,"Control",56.0158668449151,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",0,0,0.166302708293899,1
+"361",361,"Treatment",61.0172552648913,"Female",0,"rest of the world","presence","≥400","1","Hepatitis B",1,1,0.857462518384166,1
+"362",362,"Control",59.6627887606806,"Female",0,"rest of the world","presence","≥400","1","Hepatitis B",0,1,5,0
+"363",363,"Treatment",62.4713619498347,"Male",0,"Asia excluding Japan","presence","<400","1","Nonviral",1,0,0.915712464456447,1
+"364",364,"Treatment",54.9475531131132,"Male",0,"Asia excluding Japan","absence","<400","0","Hepatitis C",1,0,2.28922432972658,1
+"365",365,"Control",63.3173305041785,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis C",0,0,0.863861778747086,1
+"366",366,"Treatment",67.3812158481479,"Male",0,"Asia excluding Japan","absence","<400","1","Nonviral",1,0,2.81931823269858,1
+"367",367,"Control",65.3709524985338,"Male",0,"Asia excluding Japan","absence","<400","0","Nonviral",0,0,1.81501889939911,1
+"368",368,"Treatment",54.0250046193912,"Male",0,"Asia excluding Japan","absence","≥400","0","Nonviral",1,0,0.771024261336896,1
+"369",369,"Control",68.9278377822336,"Male",0,"rest of the world","absence","<400","0","Nonviral",0,0,5,0
+"370",370,"Control",62.456529494318,"Male",0,"Asia excluding Japan","absence","≥400","0","Hepatitis B",0,0,0.994841864078129,1
+"371",371,"Control",61.7215949149967,"Male",0,"Asia excluding Japan","presence","≥400","1","Nonviral",0,0,2.18418617562368,1
+"372",372,"Control",52.2395835256765,"Male",0,"rest of the world","absence","<400","0","Nonviral",0,0,5,0
+"373",373,"Treatment",47.8070771173618,"Male",0,"rest of the world","absence","<400","0","Nonviral",1,0,2.46683228893141,1
+"374",374,"Control",67.4422518818185,"Male",0,"rest of the world","absence","≥400","0","Nonviral",0,0,5,0
+"375",375,"Control",66.7156921380927,"Male",0,"rest of the world","presence","≥400","1","Hepatitis C",0,0,5,0
+"376",376,"Treatment",58.2810490901453,"Male",0,"Asia excluding Japan","presence","<400","0","Nonviral",1,0,3.42994425179768,1
+"377",377,"Control",62.0302338170121,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",0,0,5,0
+"378",378,"Control",52.5700320998975,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",0,0,5,0
+"379",379,"Control",67.0473795708006,"Male",0,"rest of the world","presence","≥400","0","Nonviral",0,0,0.403730977559462,0
+"380",380,"Control",55.7957310064663,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",0,0,5,0
+"381",381,"Control",59.0740675573422,"Female",0,"rest of the world","presence","≥400","0","Hepatitis B",0,1,2.88618807812039,1
+"382",382,"Treatment",59.1430922626342,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",1,0,0.479452553933135,1
+"383",383,"Treatment",64.252574798434,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,0,1.71559400591824,1
+"384",384,"Control",54.8261923742274,"Male",0,"Asia excluding Japan","presence","≥400","1","Nonviral",0,0,5,0
+"385",385,"Control",63.0128938275701,"Male",0,"rest of the world","absence","≥400","0","Nonviral",0,0,5,0
+"386",386,"Treatment",54.4449680265296,"Male",0,"rest of the world","presence","≥400","1","Nonviral",1,0,0.553891122012124,1
+"387",387,"Treatment",58.6679940120354,"Male",0,"rest of the world","presence","<400","0","Hepatitis B",1,0,2.10640913511965,1
+"388",388,"Treatment",62.7097486565339,"Male",0,"rest of the world","presence","≥400","0","Nonviral",1,0,0.699901476254832,1
+"389",389,"Treatment",61.0985020882627,"Male",0,"rest of the world","absence","<400","1","Nonviral",1,0,1.80704419455316,1
+"390",390,"Treatment",61.5574735360601,"Male",0,"Asia excluding Japan","absence","≥400","1","Hepatitis B",1,0,0.385581292324312,1
+"391",391,"Treatment",57.4284027366324,"Male",0,"Asia excluding Japan","presence","<400","0","Nonviral",1,0,1.25604983676932,1
+"392",392,"Control",58.6368829874367,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",0,0,5,0
+"393",393,"Treatment",57.1703714801556,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,0,3.5568952925034,1
+"394",394,"Treatment",54.7802244547932,"Male",0,"Asia excluding Japan","absence","<400","0","Hepatitis C",1,0,0.428411305304238,1
+"395",395,"Treatment",53.5594821031497,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,0,0.00291914113204219,1
+"396",396,"Treatment",65.7518816714415,"Male",0,"rest of the world","presence","<400","1","Nonviral",1,0,0.918355082901763,1
+"397",397,"Treatment",64.7669422440443,"Male",0,"rest of the world","presence","<400","1","Hepatitis B",1,0,0.151953152288197,1
+"398",398,"Control",62.553670215881,"Male",0,"rest of the world","absence","≥400","0","Hepatitis B",0,0,2.00721363991669,1
+"399",399,"Treatment",58.8848566576855,"Male",0,"rest of the world","absence","<400","0","Hepatitis B",1,0,0.830661588859638,1
+"400",400,"Treatment",60.3365434865371,"Male",0,"rest of the world","presence","≥400","1","Nonviral",1,0,0.105461421238915,1
+"401",401,"Control",62.8652896788977,"Female",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",0,1,3.79817215208623,1
+"402",402,"Control",60.1367055310828,"Male",0,"Asia excluding Japan","presence","<400","1","Hepatitis C",0,0,2.80055609196573,1
+"403",403,"Treatment",54.5293661087927,"Male",0,"Asia excluding Japan","presence","≥400","0","Nonviral",1,0,2.12018715623307,1
+"404",404,"Control",59.9219493689373,"Female",0,"Asia excluding Japan","presence","≥400","0","Nonviral",0,1,0.348275792218171,1
+"405",405,"Control",62.1875561866468,"Male",0,"rest of the world","absence","<400","1","Hepatitis C",0,0,0.049464325447302,1
+"406",406,"Treatment",56.0247793143319,"Female",0,"rest of the world","presence","≥400","0","Nonviral",1,1,1.15138666699315,1
+"407",407,"Treatment",50.5937642843847,"Male",0,"rest of the world","presence","<400","0","Nonviral",1,0,0.582271845631807,1
+"408",408,"Control",61.0850218964787,"Male",0,"rest of the world","presence","<400","0","Nonviral",0,0,5,0
+"409",409,"Treatment",60.1271942334781,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",1,0,1.73627607829693,1
+"410",410,"Control",57.6517318144779,"Female",0,"rest of the world","presence","<400","1","Hepatitis B",0,1,5,0
+"411",411,"Treatment",62.6735298034185,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,0,1.30520612128697,1
+"412",412,"Control",62.4348727294105,"Female",0,"rest of the world","presence","≥400","0","Hepatitis B",0,1,0.617386770018201,1
+"413",413,"Control",61.6118656127548,"Male",0,"Asia excluding Japan","presence","<400","1","Hepatitis B",0,0,2.243736175826,1
+"414",414,"Treatment",54.6740851726055,"Male",0,"Asia excluding Japan","presence","<400","1","Hepatitis B",1,0,0.637283186182875,1
+"415",415,"Control",58.3012223164174,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",0,0,1.56952148945528,1
+"416",416,"Treatment",63.1816481753074,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",1,0,3.00318128236352,1
+"417",417,"Control",54.152662471684,"Male",0,"Asia excluding Japan","absence","<400","0","Hepatitis B",0,0,4.57000905693396,1
+"418",418,"Treatment",58.0908395483804,"Male",0,"rest of the world","presence","<400","0","Hepatitis C",1,0,1.49778089141746,1
+"419",419,"Control",53.468909199767,"Male",0,"Asia excluding Japan","absence","<400","0","Nonviral",0,0,1.264747479263,1
+"420",420,"Control",60.5053530280578,"Male",0,"Asia excluding Japan","presence","≥400","0","Nonviral",0,0,5,0
+"421",421,"Control",61.8230203228913,"Male",0,"rest of the world","absence","≥400","0","Hepatitis B",0,0,5,0
+"422",422,"Treatment",61.0757756204263,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",1,0,2.40317775985862,1
+"423",423,"Control",65.3767340650576,"Male",0,"rest of the world","absence","<400","1","Hepatitis C",0,0,5,0
+"424",424,"Treatment",66.7628934988829,"Male",0,"rest of the world","presence","<400","0","Hepatitis C",1,0,0.00979293349587973,1
+"425",425,"Control",66.2193018861889,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",0,0,2.45544984566542,1
+"426",426,"Treatment",59.0658622820189,"Male",0,"Asia excluding Japan","absence","<400","0","Hepatitis B",1,0,0.0962141622230996,1
+"427",427,"Control",56.0585588255939,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",0,0,5,0
+"428",428,"Treatment",63.8311694866313,"Male",0,"rest of the world","presence","<400","0","Nonviral",1,0,0.246887877353965,1
+"429",429,"Treatment",62.7500947698385,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,0,3.44836943275917,1
+"430",430,"Control",64.6583449357036,"Male",0,"Asia excluding Japan","absence","<400","1","Hepatitis B",0,0,1.51911307688105,1
+"431",431,"Treatment",63.1858885083847,"Female",0,"Asia excluding Japan","presence","<400","1","Nonviral",1,1,2.09718113955968,1
+"432",432,"Control",67.7309019891186,"Male",0,"rest of the world","presence","≥400","0","Nonviral",0,0,0.293873579130437,1
+"433",433,"Treatment",64.0896017919953,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",1,0,0.981593785356773,0
+"434",434,"Treatment",62.5577250275021,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",1,0,3.25701421879445,1
+"435",435,"Treatment",54.0411858929566,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",1,0,4.28100551870055,1
+"436",436,"Treatment",63.1691280489791,"Female",0,"rest of the world","absence","≥400","0","Hepatitis B",1,1,1.37162756017714,1
+"437",437,"Treatment",61.5686540909231,"Female",0,"rest of the world","presence","≥400","1","Hepatitis B",1,1,0.395558486288155,1
+"438",438,"Treatment",60.0316479561204,"Male",0,"rest of the world","presence","<400","1","Nonviral",1,0,3.66002587084715,1
+"439",439,"Treatment",51.0341226486195,"Male",0,"rest of the world","presence","≥400","1","Nonviral",1,0,1.45948846838826,1
+"440",440,"Control",58.6128885728244,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",0,0,0.851375478419697,1
+"441",441,"Control",65.499663472321,"Male",0,"Asia excluding Japan","absence","<400","0","Nonviral",0,0,0.777947429199462,1
+"442",442,"Treatment",58.3375567938423,"Female",0,"rest of the world","presence","<400","1","Nonviral",1,1,2.76250433698826,1
+"443",443,"Treatment",62.8053354510108,"Male",0,"rest of the world","presence","≥400","1","Hepatitis C",1,0,0.624175858683884,0
+"444",444,"Control",58.0296542140561,"Female",0,"rest of the world","absence","<400","1","Hepatitis B",0,1,1.30730188698965,1
+"445",445,"Control",66.2460216969381,"Male",0,"rest of the world","absence","≥400","1","Hepatitis B",0,0,4.02010434665246,1
+"446",446,"Control",56.7664461796155,"Male",0,"rest of the world","absence","≥400","0","Nonviral",0,0,5,0
+"447",447,"Treatment",61.3025119615795,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis C",1,0,0.558792147256034,1
+"448",448,"Control",55.9215875587184,"Male",0,"rest of the world","presence","≥400","1","Hepatitis C",0,0,3.01737841472175,1
+"449",449,"Treatment",53.9406332193231,"Male",0,"Asia excluding Japan","absence","≥400","0","Hepatitis C",1,0,0.568551942377629,1
+"450",450,"Control",56.6347406726734,"Female",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",0,1,5,0
+"451",451,"Treatment",60.164695911028,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",1,0,1.318078195731,1
+"452",452,"Control",62.9956982173857,"Male",0,"rest of the world","presence","<400","0","Hepatitis C",0,0,2.98133812126749,1
+"453",453,"Control",62.4529573000931,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis B",0,0,5,0
+"454",454,"Control",54.136619452562,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",0,0,5,0
+"455",455,"Control",69.5562812821766,"Male",0,"Asia excluding Japan","presence","<400","0","Hepatitis C",0,0,2.76906105451635,1
+"456",456,"Control",58.811017819713,"Male",0,"rest of the world","absence","<400","1","Nonviral",0,0,5,0
+"457",457,"Treatment",66.3782112825456,"Male",0,"Asia excluding Japan","presence","<400","0","Nonviral",1,0,0.950312923611743,1
+"458",458,"Treatment",63.2622248045749,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis C",1,0,2.53431148499288,1
+"459",459,"Control",62.7324375627288,"Female",0,"rest of the world","presence","<400","0","Hepatitis B",0,1,0.277569796293835,1
+"460",460,"Treatment",56.2074633693849,"Male",0,"Asia excluding Japan","absence","<400","1","Hepatitis B",1,0,1.07046802248404,0
+"461",461,"Control",71.8091536729576,"Female",0,"rest of the world","presence","<400","1","Hepatitis C",0,1,2.55660721203147,1
+"462",462,"Treatment",63.6902728277625,"Male",0,"rest of the world","absence","≥400","0","Nonviral",1,0,1.22893684670531,1
+"463",463,"Treatment",69.0382720268216,"Male",0,"rest of the world","presence","<400","0","Nonviral",1,0,2.25459726008033,1
+"464",464,"Treatment",57.3835291467492,"Female",0,"rest of the world","presence","≥400","0","Nonviral",1,1,4.20944372191883,1
+"465",465,"Control",61.4477129368272,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",0,0,5,0
+"466",466,"Control",57.5055003473857,"Male",0,"rest of the world","absence","≥400","1","Hepatitis B",0,0,2.50295344663774,1
+"467",467,"Treatment",53.5174501602465,"Male",0,"rest of the world","presence","≥400","0","Hepatitis C",1,0,1.23844386005871,1
+"468",468,"Treatment",55.9272998855698,"Male",0,"rest of the world","presence","≥400","0","Nonviral",1,0,2.45474473006992,1
+"469",469,"Control",59.9999985635207,"Male",0,"Asia excluding Japan","presence","<400","1","Hepatitis B",0,0,1.98886468795881,1
+"470",470,"Control",55.6715659184706,"Male",0,"Asia excluding Japan","presence","<400","0","Nonviral",0,0,3.7393530279504,1
+"471",471,"Treatment",56.3388162939039,"Male",0,"Asia excluding Japan","presence","<400","0","Nonviral",1,0,0.343581537991786,1
+"472",472,"Control",55.1392344393411,"Male",0,"Asia excluding Japan","absence","<400","1","Hepatitis C",0,0,2.27989455871176,1
+"473",473,"Treatment",59.6045212142806,"Male",0,"rest of the world","absence","≥400","1","Hepatitis C",1,0,1.28864712327152,1
+"474",474,"Control",55.7140930601361,"Male",0,"rest of the world","presence","≥400","1","Hepatitis C",0,0,5,0
+"475",475,"Treatment",52.4641374480181,"Male",0,"rest of the world","presence","<400","0","Nonviral",1,0,0.308022205595887,1
+"476",476,"Control",54.4082590192007,"Male",0,"rest of the world","absence","<400","0","Nonviral",0,0,5,0
+"477",477,"Treatment",62.3639168472934,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis C",1,0,1.18315391968473,1
+"478",478,"Treatment",65.7270007837673,"Male",0,"rest of the world","absence","≥400","1","Nonviral",1,0,0.597717828648356,0
+"479",479,"Control",64.0280008624262,"Male",0,"rest of the world","presence","≥400","0","Nonviral",0,0,3.14712436287664,0
+"480",480,"Treatment",65.7018139854891,"Male",0,"Asia excluding Japan","absence","<400","0","Hepatitis B",1,0,1.21872524013667,1
+"481",481,"Treatment",63.0897741242853,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",1,0,2.05115046750027,1
+"482",482,"Control",59.4693463282218,"Male",0,"rest of the world","presence","≥400","0","Hepatitis B",0,0,2.35618191406415,1
+"483",483,"Control",65.1546771799559,"Male",0,"rest of the world","absence","<400","0","Hepatitis B",0,0,4.03222027213534,1
+"484",484,"Treatment",59.8352781730531,"Male",0,"Asia excluding Japan","presence","≥400","1","Hepatitis B",1,0,1.67777290595304,1
+"485",485,"Control",59.9133458476619,"Male",0,"Asia excluding Japan","absence","≥400","1","Nonviral",0,0,3.61966689036029,1
+"486",486,"Control",72.1059376406839,"Male",0,"rest of the world","presence","<400","1","Hepatitis B",0,0,1.91288888960925,1
+"487",487,"Treatment",64.8362246071271,"Male",0,"Asia excluding Japan","absence","<400","0","Nonviral",1,0,1.68512280516007,1
+"488",488,"Control",57.5608286048951,"Male",0,"rest of the world","presence","<400","1","Hepatitis B",0,0,2.95128997997495,1
+"489",489,"Treatment",57.2757979047768,"Male",0,"Asia excluding Japan","absence","<400","1","Hepatitis C",1,0,0.813738723855285,1
+"490",490,"Treatment",59.3203798605072,"Male",0,"Asia excluding Japan","absence","<400","1","Hepatitis C",1,0,5,0
+"491",491,"Control",55.1979910906572,"Male",0,"Asia excluding Japan","absence","<400","0","Nonviral",0,0,0.84854649475365,1
+"492",492,"Control",53.3170592693632,"Male",0,"rest of the world","absence","≥400","0","Hepatitis B",0,0,5,0
+"493",493,"Treatment",58.3322434589479,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,0,1.72382148202774,1
+"494",494,"Control",54.6226015872135,"Female",0,"rest of the world","presence","≥400","0","Hepatitis B",0,1,5,0
+"495",495,"Treatment",67.8089569866963,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,0,2.16014161472319,1
+"496",496,"Treatment",55.069539733356,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",1,0,4.65673525048835,1
+"497",497,"Control",61.2136630143536,"Male",0,"rest of the world","presence","≥400","1","Hepatitis B",0,0,5,0
+"498",498,"Control",54.6976683613179,"Female",0,"rest of the world","presence","≥400","0","Nonviral",0,1,5,0
+"499",499,"Control",60.437002658968,"Male",0,"Asia excluding Japan","presence","≥400","0","Hepatitis B",0,0,2.2705844993983,1
+"500",500,"Treatment",63.6726485761022,"Male",0,"rest of the world","presence","≥400","0","Nonviral",1,0,1.42315753269487,1
