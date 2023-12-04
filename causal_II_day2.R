@@ -48,7 +48,6 @@ trt1$surv1 <- cumprod(trt1$p.noevent1)
 
 #merge both datasets together
 hazards.graph <- merge(trt0, trt1, by=c("time", "timesq"))
-hazards.graph$survdiff <- hazards.graph$surv1-hazards.graph$surv0
 
 #create the difference in survival
 hazards.graph$survdiff <- hazards.graph$surv1 - hazards.graph$surv0
