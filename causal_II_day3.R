@@ -14,6 +14,9 @@ data.recurrent <- data.recurrent %>%
   mutate(cumulative_event = cumsum(event)) %>%
   ungroup() 
 
+data.recurrent$gap <- data.recurrent$t.stop-data.recurrent$t.start
+
+data.recurrent$time0 <- 0
 # Conventional COX model
 model.0 <- coxph(Surv(t.start,t.stop,status) ~ trt + sex+ age+ hospital_admissions,  method= "breslow", data = data.recurrent)
 summary(model.0)
@@ -31,7 +34,7 @@ model.2 <- coxph(Surv(t.start,t.stop,status)~ trt + sex+ age+ hospital_admission
 summary(model.2)
 
 # PWP-GT model
-model.3 <- coxph(Surv(rep(0,dim(data)[2]),t.stop-t.start,status)~trt + sex+ age+ hospital_admissions+cluster(id)+strata(cumulative_event), method= "breslow",  data =data.recurrent)
+model.3 <- coxph(Surv(time0, gap, status)~trt + sex+ age+ hospital_admissions+cluster(id)+strata(cumulative_event), method= "breslow",  data =data.recurrent)
 summary(model.3)
 
 # For the stratified models, the argument strata(event) identifies stratification variable to obtain their estimates. 
