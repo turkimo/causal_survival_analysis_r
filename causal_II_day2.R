@@ -61,6 +61,7 @@ Y_0 <- 1-surv0
 Y_1 <- 1-surv1
 riskdiff <- Y_1 - Y_0
 riskratio <- Y_1/Y_0
+riskratio
 
 # plot
 ggplot(hazards.graph, aes(x=time, y=surv)) + 
@@ -127,7 +128,7 @@ for (i in 1:numboot) {
 results
 
 # SE for bootstrap samples  
-res_se <- apply(results,2,sd)
+res_se <- apply(results,2,sd) 
 
 lcldiff <- riskdiff - 1.96*res_se[3]
 ucldiff <- riskdiff + 1.96*res_se[3]
